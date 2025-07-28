@@ -3,7 +3,7 @@ services:
     name: chatbot-backend
     env: python
     plan: free
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install --upgrade pip setuptools wheel && pip install -r requirements.txt
     startCommand: python app.py
     envVars:
       - key: FLASK_ENV
@@ -12,7 +12,11 @@ services:
         value: app.py
       - key: PORT
         value: 5000
-      - key: GEMINI_API_KEY
+      - key: GEMINI_API_KEY_1
+        sync: false
+      - key: GEMINI_API_KEY_2
+        sync: false
+      - key: GEMINI_API_KEY_3
         sync: false
     healthCheckPath: /
     autoDeploy: true
