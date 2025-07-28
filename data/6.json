@@ -1,0 +1,398 @@
+[
+  {
+    "available_sizes": [
+      "7.5 fl oz",
+      "6 pack; 7.5 fl oz",
+      "10 pack; 12 fl oz",
+      "8 pack; 12 fl oz",
+      "12 pack; 12 fl oz",
+      "24 pack;  13.2 fl oz",
+      "16 fl oz",
+      "16.9 fl oz",
+      "6 pack;  20 fl oz",
+      "2 Liters"
+    ],
+    "description": "Uncap that irresistible, made-to-share-in-every-moment, orange flavor. Available Sizes: 7.5 fl oz, 6 pack; 7.5 fl oz, 10 pack; 12 fl oz, 8 pack; 12 fl oz, 12 pack; 12 fl oz, 24 pack; 13.2 fl oz, 16 fl oz, 16.9 fl oz, 6 pack; 20 fl oz, 2 Liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "LESS THAN 2% OF: CITRIC ACID",
+      "NATURAL FLAVORS",
+      "SODIUM BENZOATE (TO PROTECT TASTE)",
+      "MODIFIED FOOD STARCH",
+      "GLYCEROL ESTER OF ROSIN",
+      "YELLOW 6",
+      "RED 40"
+    ],
+    "nutrition_facts": {
+      "calories": 270,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "80mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "26%",
+        "value": "74g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "143%",
+          "value": "73g"
+        },
+        "value": "73g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/fanta-products-orange-base-img.jpg",
+    "product_name": "Fanta Orange"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "12 pack; 20 fl oz",
+      "2 liters"
+    ],
+    "description": "Ride the irresistible orange rollercoaster of flavor, without all the sugar. Available Sizes: 12 fl oz, 12 pack; 20 fl oz, 2 liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "CITRIC ACID",
+      "POTASSIUM CITRATE",
+      "ASPARTAME",
+      "NATURAL FLAVORS",
+      "MODIFIED FOOD STARCH",
+      "POTASSIUM BENZOATE (TO PROTECT TASTE)",
+      "ACESULFAME POTASSIUM",
+      "GLYCEROL ESTER OF ROSIN",
+      "YELLOW 6",
+      "MEDIUM CHAIN TRIGLYCERIDES",
+      "SUCROSE ACETATE ISOBUTYRATE",
+      "RED 40"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "60mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "1g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/fanta-products-orange-zs-img.jpg",
+    "product_name": "Fanta Zero Sugar Orange"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "12 pack; 16 fl oz",
+      "20 fl oz",
+      "2 Liters"
+    ],
+    "description": "Fanta Strawberry soda is almost like finding the most perfect strawberry out of the bunch and raising it as if it were your own. Delicious. Try one today. Available Sizes: 12 fl oz, 12 pack; 16 fl oz, 20 fl oz, 2 Liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL FLAVORS",
+      "CITRIC ACID",
+      "SODIUM BENZOATE (TO PROTECT TASTE)",
+      "RED 40"
+    ],
+    "nutrition_facts": {
+      "calories": 270,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "80mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "27%",
+        "value": "75g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "148%",
+          "value": "74g"
+        },
+        "value": "74g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/en_fanta_prod_strawberry_20oz_750x750_v1.jpg",
+    "product_name": "Fanta Strawberry"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "20 fl oz",
+      "2 Liters"
+    ],
+    "description": "Do you deserve to lie down on a daybed, being fed grapes from a silver platter, one by one? Yeah you do. Crack open the next best thing—a caffeine-free Fanta Grape. Available Sizes: 12 fl oz, 20 fl oz, 2 Liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL FLAVORS",
+      "TARTARIC ACID",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "CITRIC ACID",
+      "RED 40",
+      "BLUE 1"
+    ],
+    "nutrition_facts": {
+      "calories": 280,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "65mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "27%",
+        "value": "74g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "147%",
+          "value": "73g"
+        },
+        "value": "73g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/en_fanta_prod_grape_20oz_750x750_v1.jpg",
+    "product_name": "Fanta Grape"
+  },
+  {
+    "available_sizes": [
+      "20 fl oz"
+    ],
+    "description": "Let loose your hair. Crack open the window. Sip on a sweet, invigorating bottle of Fanta Peach. The road ahead is yours for the taking. Available Sizes: 20 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL FLAVORS",
+      "CITRIC ACID",
+      "SODIUM BENZOATE (TO PROTECT TASTE)",
+      "YELLOW 6",
+      "RED 40"
+    ],
+    "nutrition_facts": {
+      "calories": 250,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "80mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "25%",
+        "value": "68g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "135%",
+          "value": "67g"
+        },
+        "value": "67g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/en_fanta_prod_peach_20oz_750x750_v1.jpg",
+    "product_name": "Fanta Peach"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "16 fl oz",
+      "20 fl oz",
+      "2 Liters"
+    ],
+    "description": "Need to brighten your day? Take your taste buds on the sweetest of tropical vacations. Try Fanta Pineapple today—a golden glow of delicious proportions. Available Sizes: 12 fl oz, 16 fl oz, 20 fl oz, 2 Liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVORS",
+      "MODIFIED FOOD STARCH",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "SODIUM CITRATE",
+      "MEDIUM CHAIN TRIGLYCERIDES",
+      "SALT",
+      "SUCROSE ACETATE ISOBUTYRATE",
+      "YELLOW 5",
+      "YELLOW 6"
+    ],
+    "nutrition_facts": {
+      "calories": 300,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "4%",
+        "value": "90mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "29%",
+        "value": "81g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "160%",
+          "value": "80g"
+        },
+        "value": "80g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/en_fanta_prod_pineapple_20oz_750x750_v1.jpg",
+    "product_name": "Fanta Pineapple"
+  },
+  {
+    "available_sizes": [
+      "20 fl oz"
+    ],
+    "description": "Fanta Piña Colada is like a tropical pool party—and you’re the guest of honor. An island resort for one. But words only do so much. Try one today. Available Sizes: 20 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL FLAVORS",
+      "MALIC ACID",
+      "MODIFIED FOOD STARCH",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "SUCROSE ACETATE ISOBUTYRATE",
+      "GLYCEROL ESTER OF ROSIN",
+      "CITRIC ACID"
+    ],
+    "nutrition_facts": {
+      "calories": 230,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "65mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "22%",
+        "value": "61g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "122%",
+          "value": "61g"
+        },
+        "value": "61g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/en_fanta_prod_pinacolada_20oz_750x750_v1.jpg",
+    "product_name": "Fanta Piña Colada"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "20 fl oz"
+    ],
+    "description": "Have you ever picked berries with your bff? Collected them in a little basket and high-fived when you were finished? That awesome feeling is what Fanta Berry tastes like. Available Sizes: 12 fl oz, 20 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL FLAVORS",
+      "CITRIC ACID",
+      "SODIUM CITRATE",
+      "MALIC ACID",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "BLUE 1"
+    ],
+    "nutrition_facts": {
+      "calories": 250,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "110mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "25%",
+        "value": "68g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "124%",
+          "value": "67g"
+        },
+        "value": "67g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/en_fanta_prod_berry_20oz_750x750_v1.jpg",
+    "product_name": "Fanta Berry"
+  }
+]

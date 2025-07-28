@@ -1,0 +1,260 @@
+[
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "24 fl oz",
+      "1 Liter"
+    ],
+    "description": "Lemon, meet Sweet Tea, Sweet Tea, meet Lemon. BAM! That's a match made in flavor heaven. *Some flavors regionally available. Available Sizes: 12 fl oz, 24 fl oz, 1 Liter",
+    "ingredients": [
+      "TEA (WATER",
+      "BLACK TEA POWDER)",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL FLAVORS",
+      "CITRIC ACID",
+      "SODIUM HEXAMETAPHOSPHATE (TO PROTECT TASTE)",
+      "PHOSPHORIC ACID",
+      "POTASSIUM CITRATE",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "CALCIUM DISODIUM EDTA (TO PROTECT TASTE)"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "12 fl oz (360 mL)",
+      "servings_per_container": 2,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "115mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "22g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "44%",
+          "value": "22g"
+        },
+        "value": "22g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fuze/products/fuze-lemon-sweet-tea-pdp-img.jpg",
+    "product_name": "Lemon + Sweet Tea*"
+  },
+  {
+    "available_sizes": [
+      "24 fl oz",
+      "1 Liter"
+    ],
+    "description": "Tropics on tropics. This fusion of Pineapple and Mango goodness will have you seeing tropical island after tropical island with each flavorful sip. *Some flavors regionally available. Available Sizes: 24 fl oz, 1 Liter",
+    "ingredients": [
+      "TEA (WATER",
+      "GREEN TEA POWDER)",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL FLAVORS",
+      "CITRIC ACID",
+      "SODIUM HEXAMETAPHOSPHATE (TO PROTECT TASTE)",
+      "PHOSPHORIC ACID",
+      "POTASSIUM CITRATE",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "CALCIUM DISODIUM EDTA (TO PROTECT TASTE)"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "12 fl oz (360 mL)",
+      "servings_per_container": 2,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "105mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "21g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "41%",
+          "value": "21g"
+        },
+        "value": "21g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fuze/products/fuze-pineapple-mango-pdp-img.jpg",
+    "product_name": "Pineapple + Mango*"
+  },
+  {
+    "available_sizes": [
+      "24 fl oz",
+      "1 Liter"
+    ],
+    "description": "Whether the calendar says it or not, this blend of fresh-picked Strawberry and Peach flavors will convince you summer is here. Or, at the very least, right around the corner. *Some flavors regionally available. Available Sizes: 24 fl oz, 1 Liter",
+    "ingredients": [
+      "TEA (WATER",
+      "GREEN TEA POWDER)",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL FLAVORS",
+      "CITRIC ACID",
+      "SODIUM HEXAMETAPHOSPHATE (TO PROTECT TASTE)",
+      "PHOSPHORIC ACID",
+      "FRUIT AND VEGETABLE JUICE (FOR COLOR)",
+      "POTASSIUM CITRATE",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "CALCIUM DISODIUM EDTA (TO PROTECT TASTE)"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "12 fl oz (360 mL)",
+      "servings_per_container": 2,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "115mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "21g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "42%",
+          "value": "21g"
+        },
+        "value": "21g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fuze/products/fuze-strawberry-peach-pdp-img.jpg",
+    "product_name": "Strawberry + Peach*"
+  },
+  {
+    "available_sizes": [
+      "24 fl oz",
+      "1 Liter"
+    ],
+    "description": "What happens when you cross the tartness of Lime with the sweetness of Watermelon? We call it deliciously refreshing fruit-flavored tea deliciousness in a bottle. *Some flavors regionally available. Available Sizes: 24 fl oz, 1 Liter",
+    "ingredients": [
+      "TEA (WATER",
+      "GREEN TEA POWDER)",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVORS",
+      "SODIUM HEXAMETAPHOSPHATE (TO PROTECT TASTE)",
+      "PHOSPHORIC ACID",
+      "FRUIT AND VEGETABLE JUICE (FOR COLOR)",
+      "POTASSIUM CITRATE",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "CALCIUM DISODIUM EDTA (TO PROTECT TASTE)"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "12 fl oz (360 mL)",
+      "servings_per_container": 2,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "115mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "21g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "42%",
+          "value": "21g"
+        },
+        "value": "21g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fuze/products/fuze-watermelon-lime-pdp-img.jpg",
+    "product_name": "Watermelon + Lime*"
+  },
+  {
+    "available_sizes": [
+      "24 fl oz",
+      "1 Liter"
+    ],
+    "description": "We don't want to alarm you, but this collision of Blueberry and Lemonade is an alarmingly amazing drink experience. Go ahead, give it a whirl and tell us otherwise. *Some flavors regionally available. Available Sizes: 24 fl oz, 1 Liter",
+    "ingredients": [
+      "TEA (WATER",
+      "BLACK TEA POWDER)",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL FLAVORS",
+      "CITRIC ACID",
+      "SODIUM HEXAMETAPHOSPHATE (TO PROTECT TASTE)",
+      "PHOSPHORIC ACID",
+      "POTASSIUM CITRATE",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "ACESULFAME POTASSIUM",
+      "SUCRALOSE",
+      "CALCIUM DISODIUM EDTA (TO PROTECT TASTE)"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "12 fl oz (360 mL)",
+      "servings_per_container": 2,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "115mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "21g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "42%",
+          "value": "21g"
+        },
+        "value": "21g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fuze/products/fuze-blueberry-lemonade-pdp-img.jpg",
+    "product_name": "Blueberry + Lemonade*"
+  }
+]

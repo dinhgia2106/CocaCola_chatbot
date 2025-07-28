@@ -1,0 +1,191 @@
+[
+  {
+    "available_sizes": [
+      "6 fl oz",
+      "10 fl oz",
+      "12 fl oz"
+    ],
+    "description": "A box of Minute Maid Apple Juice a day keeps you refreshed with a delicious taste. 100% APPLE JUICE FROM CONCENTRATE WITH ADDED INGREDIENTS Available Sizes: 6 fl oz, 10 fl oz, 12 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "CONCENTRATED APPLE JUICE",
+      "LESS THAN 0.5% OF: CALCIUM CITRATE (CALCIUM SOURCE)",
+      "VITAMIN C (ASORBIC ACID)",
+      "POTASSIUM PHOSPHATE"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Drink Box  (6 fl oz)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "21g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "19g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/kids/en_minute-maid_prod_apple_juice_177ml_750x750_v1.jpg",
+    "product_name": "Apple Juice"
+  },
+  {
+    "available_sizes": [
+      "6 fl oz"
+    ],
+    "description": "Get mixed up in something good. Minute Maid Mixed Berry blends apple, grape, raspberry and blackberry juices for a sundry of great taste. A 100% JUICE BLEND OF APPLE, GRAPE & BERRY JUICES FROM CONCENTRATE WITH ADDED INGREDIENTS AND OTHER NATURAL FLAVORS Available Sizes: 6 fl oz",
+    "ingredients": [
+      "APPLE AND GRAPE JUICES FROM CONCENTRATE",
+      "LESS THAN 2% OF: RASPBERRY AND BLACKBERRY JUICES FROM CONCENTRATE",
+      "NATURAL FLAVORS",
+      "CALCIUM CITRATE (CALCIUM SOURCE)",
+      "VITAMIN C (ASCORBIC ACID)",
+      "CITRIC ACID (PROVIDES TARTNESS)"
+    ],
+    "nutrition_facts": {
+      "calories": 90,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Juice Box (6 fl oz)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "22g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "21g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/kids/en_minute-maid_prod_mixed_berry_177ml_750x750_v1.jpg",
+    "product_name": "Mixed Berry Juice"
+  },
+  {
+    "available_sizes": [
+      "6 fl oz",
+      "7.5 fl oz",
+      "12 fl oz",
+      "16.9 fl oz",
+      "20 fl oz"
+    ],
+    "description": "Mix things up. Minute Maid Fruit Punch combines a number of delectable fruit juices together in a refreshing, delicious blend that's made with real fruit juice. FRUIT PUNCH BLEND OF 4 JUICES FROM CONCENTRATE WITH ADDED INGREDIENTS Available Sizes: 6 fl oz, 7.5 fl oz, 12 fl oz, 16.9 fl oz, 20 fl oz",
+    "ingredients": [
+      "APPLE",
+      "PEAR AND GRAPE JUICES FROM CONCENTRATE",
+      "LESS THAN 2% OF: PINEAPPLE JUICE FROM CONCENTRATE",
+      "NATURAL FLAVORS",
+      "CALCIUM CITRATE (CALCIUM SOURCE)",
+      "VITAMIN C (ASCORBIC ACID)",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "POTASSIUM PHOSPHATE"
+    ],
+    "nutrition_facts": {
+      "calories": 90,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Juice Box (6 fl oz)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "21g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "19g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/kids/en_minute-maid_prod_fruit_punch_177ml_750x750_v1.jpg",
+    "product_name": "Fruit Punch"
+  },
+  {
+    "available_sizes": [
+      "6 fl oz",
+      "12 fl oz",
+      "16.9 fl oz",
+      "20 fl oz",
+      "59 fl oz",
+      "2 Liters"
+    ],
+    "description": "Classics never go out of style. Made with the goodness of real lemons, Minute Maid Lemonade is the quintessential refreshing beverage with the great taste of a simpler time. Available Sizes: 6 fl oz, 12 fl oz, 16.9 fl oz, 20 fl oz, 59 fl oz, 2 Liters",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "LEMON JUICE FROM CONCENTRATE",
+      "LESS THAN 2% OF: NATURAL FLAVORS",
+      "CALCIUM CITRATE (CALCIUM SOURCE)",
+      "VITAMIN C (ASCORBIC ACID)",
+      "SUGAR"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Drink Box (6 fl oz)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "10mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "22g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "42%",
+          "value": "21g"
+        },
+        "value": "21g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/kids/en_minute-maid_prod_lemonade_177ml_750x750_v1.jpg",
+    "product_name": "Lemonade"
+  }
+]

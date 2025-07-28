@@ -1,0 +1,78 @@
+[
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "8-pk"
+    ],
+    "description": "a fresh look at refreshing. it’s the same vapor distilled smartwater, in a sippably sleek can. whenever you’re on the move, working out, or needing a quiet moment for yourself, smartwater is a smart way to hydrate. available sizes: 12 fl oz, 8-pk",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "0%",
+        "value": "0 g"
+      },
+      "serving_size": "1 Can",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "0%",
+        "value": "0 g"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0 g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0 g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0"
+        },
+        "value": "0"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/smartwater/june25/smartwater-product-can-blue-us-revised.png",
+    "product_name": ""
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "8-pk"
+    ],
+    "description": "a fresh look at refreshing. it’s the same vapor distilled smartwater, in a sippably sleek can. smartwater alkaline with antioxidant is everything you love about vapor distilled smartwater, but made to fit your active lifestyle with ionized 9.5+ph and added antioxidant from selenium. smartwater continues to keep it smart by bringing you hydration that’s ready for action. available sizes: 12 fl oz, 8-pk",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "0%",
+        "value": "0 g"
+      },
+      "serving_size": "1 Can",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "0%",
+        "value": "0 g"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0 g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0 g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0"
+        },
+        "value": "0"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/smartwater/june25/smartwater-product-can-black-us-revised.png",
+    "product_name": ""
+  }
+]

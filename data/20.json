@@ -1,0 +1,363 @@
+[
+  {
+    "available_sizes": [
+      "6 fl oz",
+      "10 fl oz",
+      "12 fl oz"
+    ],
+    "description": "Enjoy Minute Maid Apple Juice, a deliciously refreshing juice with that \"picked from the tree\" flavor of crisp, ripe apples. Conveniently packaged in 12 fluid ounce bottles, you can always take the goodness to go. Refresh your day with 100% apple juice from concentrate with 100% vitamin C. Available Sizes: 6 fl oz, 10 fl oz, 12 fl oz",
+    "ingredients": [
+      "CONTAINS PURE FILTERED WATER",
+      "CONCENTRATED APPLE JUICE",
+      "VITAMIN C (ASCORBIC ACID)"
+    ],
+    "nutrition_facts": {
+      "calories": 170,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (12 fl oz)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "30mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "15%",
+        "value": "41g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "39g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_apple_juice_100vitc_750x750_v1.jpg",
+    "product_name": "Apple Juice"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "Enjoy Minute Maid Cranberry Apple Raspberry, a delicious juice beverage made from a unique mix of pear, cranberry, apple and raspberry juices. Conveniently packaged in 12 fluid ounce bottles, you can always take the goodness to go. Refresh your day with a 25% juice blend of pear, cranberry, apple and raspberry juices from concentrate with 100% vitamin C. Available Sizes: 12 fl oz",
+    "ingredients": [
+      "CONTAINS PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "PEAR",
+      "CRANBERRY",
+      "APPLE AND RASPBERRY JUICES FROM CONCENTRATE",
+      "LESS THAN 1% OF: NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "VITAMIN C (ASCORBIC ACID)",
+      "GRAPE SKIN EXTRACT (FOR COLOR)",
+      "SUGAR"
+    ],
+    "nutrition_facts": {
+      "calories": 180,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (12 fl oz)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "25mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "18%",
+        "value": "48g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "76%",
+          "value": "38g"
+        },
+        "value": "45g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_apple_raspberry_750x750_v1.jpg",
+    "product_name": "Cranberry Apple Raspberry"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "Enjoy Minute Maid Cranberry Grape, a refreshing juice beverage made from the delicious taste of apple, cranberry and grape juices. Conveniently packaged in 12 fluid ounce bottles, you can always take the goodness to go. Refresh your day with 25% juice blend of apple, cranberry and grape juices from concentrate with 100% vitamin C. Available Sizes: 12 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "APPLE",
+      "CRANBERRY AND GRAPE JUICES FROM CONCENTRATE",
+      "LESS THAN 1% OF: NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "VITAMIN C (ASCORBIC ACID)",
+      "GRAPE SKIN EXTRACT (FOR COLOR)",
+      "SUCRALOSE"
+    ],
+    "nutrition_facts": {
+      "calories": 190,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (12 fl oz)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "25mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "18%",
+        "value": "50g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "77%",
+          "value": "39g"
+        },
+        "value": "48g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_crangrape_750x750_v1.jpg",
+    "product_name": "Cranberry Grape"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "Enjoy Minute Maid Pineapple Orange, a refreshing juice made from a mix of pineapple, orange and apple juices. Conveniently packaged in 12 fluid ounce bottles, you can always take the goodness to go. Refresh your day with a 100% juice blend of pineapple, orange and apple juice with 100% vitamin C. Available Sizes: 12 fl oz",
+    "ingredients": [
+      "CONTAINS PINEAPPLE",
+      "ORANGE AND APPLE JUICES FROM CONCENTRATE",
+      "LESS THAN 0.5% OF: VITAMIN C (ASCORBIC ACID)",
+      "VITAMIN E (ALPHA-TOCOPHERYL ACETATE)",
+      "NATURAL FLAVORS"
+    ],
+    "nutrition_facts": {
+      "calories": 180,
+      "protein": {
+        "daily_value": "",
+        "value": "2g"
+      },
+      "serving_size": "1 Bottle (12 fl oz)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "25mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "16%",
+        "value": "43g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "40g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_pineapple_orange_100vitc_750x750_v1.jpg",
+    "product_name": "Pineapple Orange"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "Enjoy Minute Maid Peach Mango, a refreshing juice drink made from a mix of apple, pear, mango and peach juices. Conveniently packaged in 12 fluid ounce bottles, you can always take the goodness to go. Refresh your day with a 25% juice blend of apple, pear, mango and peach juices from concentrate with 100% vitamin C. Available Sizes: 12 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "APPLE AND PEAR JUICES FROM CONCENTRATE",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "MANGO PUREE FROM CONCENTRATE",
+      "CLARIFIED PEACH JUICE FROM CONCENTRATE",
+      "LESS THAN 1% OF: NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "VITAMIN C (ASCORBIC ACID)",
+      "FRUIT AND VEGETABLE JUICE (FOR COLOR)",
+      "SUCRALOSE"
+    ],
+    "nutrition_facts": {
+      "calories": 150,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (12 fl oz)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "25mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "14%",
+        "value": "39g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "56%",
+          "value": "28g"
+        },
+        "value": "37g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_peach%20mango_100vitc_750x750_v1.jpg",
+    "product_name": "Peach Mango"
+  },
+  {
+    "available_sizes": [
+      "10 fl oz",
+      "12 fl oz",
+      "59 fl oz",
+      "128 fl oz"
+    ],
+    "description": "Enjoy Minute Maid Orange Juice, a refreshing juice made from perfectly ripe, juicy oranges. Conveniently packaged in 12 fluid ounce bottles, you can always take the goodness to go. Refresh your day with 100% orange juice from concentrate with 100% vitamin C. Available Sizes: 10 fl oz, 12 fl oz, 59 fl oz, 128 fl oz",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": 110,
+      "protein": {
+        "daily_value": "",
+        "value": "2g"
+      },
+      "serving_size": "1 bottle (12 fl oz)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "10%",
+        "value": "27g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0h"
+        },
+        "value": "24g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_orange_100vitc_750x750_v1.jpg",
+    "product_name": "Original Orange Juice"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "Enjoy Minute Maid Tropical Blend, a refreshing juice drink made from a mix of tropical flavors that will transport you to a beach cabana on an exotic island. Conveniently packaged in 12 fluid ounce bottles, you can always take the goodness to go. Refresh your day with a tropical mix of 25% juice blend of pear, carrot, mango and pineapple juices from concentrate with 100% vitamin C. Available Sizes: 12 fl oz",
+    "ingredients": [
+      "CONTAINS PURE FILTERED WATER",
+      "PEAR AND CARROT JUICES FROM CONCENTRATE",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "MANGO PUREE FROM CONCENTRATE",
+      "PINEAPPLE JUICE FROM CONCENTRATE",
+      "LESS THAN 1% OF: NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "VITAMIN C (ASCORBIC ACID)",
+      "SUCRALOSE"
+    ],
+    "nutrition_facts": {
+      "calories": 100,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (12 fl oz)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "40mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "10%",
+        "value": "27g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "35%",
+          "value": "17g"
+        },
+        "value": "25g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_tropical_blend_100vitc_750x750_v1.jpg",
+    "product_name": "Tropical Blend"
+  },
+  {
+    "available_sizes": [
+      "11.5 fl oz"
+    ],
+    "description": "Minute Maid Cranberry Cocktail combines cranberry and apple flavors for a mouthful of sweet and tart refreshment that's made with real fruit juice. A 15% JUICE BLEND OF APPLE, CRANBERRY AND GRAPE JUICES Available Sizes: 11.5 fl oz",
+    "ingredients": [
+      "CONTAINS PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "APPLE",
+      "CRANBERRY AND GRAPE JUICES FROM CONCENTRATE",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "NATURAL FLAVORS",
+      "SUGAR"
+    ],
+    "nutrition_facts": {
+      "calories": 220,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (11.5 fl oz)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "25mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "22%",
+        "value": "60g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "106%",
+          "value": "53g"
+        },
+        "value": "58g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minutemaid_prod_cranberrycocktail5ozcan_750x750_v1.jpg",
+    "product_name": "Cranberry Cocktail"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "available_sizes": [
+      "10 fl oz",
+      "12 fl oz",
+      "16 fl oz",
+      "20 fl oz",
+      "1 Liters",
+      "1.5 Liters"
+    ],
+    "description": "Dasani water is purified and enhanced with a proprietary blend of minerals to give it the clean, fresh taste you want from water. And it’s packaged in a 100% recycled* bottled for you to refill, reuse and recycle. *Excludes label and cap. Available Sizes: 10 fl oz, 12 fl oz, 16 fl oz, 20 fl oz, 1 Liters, 1.5 Liters",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "0%",
+        "value": "0mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/dasani/dasani-blp-product.png",
+    "product_name": "Dasani® Purified Water"
+  }
+]

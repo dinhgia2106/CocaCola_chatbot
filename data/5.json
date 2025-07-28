@@ -1,0 +1,203 @@
+[
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "16.9 fl oz",
+      "20 fl oz",
+      "2 Liters"
+    ],
+    "description": "The original no sugar, no calorie sparkling beverage. Its bold citrus flavors combine to create a refreshingly unique, crowd pleasing taste experience. Available Sizes: 12 fl oz, 16.9 fl oz, 20 fl oz, 2 Liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "CITRIC ACID",
+      "CONCENTRATED GRAPEFRUIT JUICE",
+      "POTASSIUM CITRATE",
+      "ASPARTAME",
+      "POTASSIUM SORBATE (TO PROTECT TASTE)",
+      "ACACIA GUM",
+      "ACESULFAME POTASSIUM",
+      "NATURAL FLAVORS",
+      "GLYCEROL ESTER OF ROSIN",
+      "POTASSIUM BENZOATE AND CALCIUM DISODIUM EDTA (TO PROTECT TASTE)",
+      "CAROB BEAN GUM"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 FL OZ)",
+      "servings_per_container": 12,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "35mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fresca/en_fresca_prod_grapefruit-citrus_12oz-can_750x750_v1.jpg",
+    "product_name": "Grapefruit Citrus"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "The perfect balance of sweet and citrus. That's the thinking behind Black Cherry. It's crisp, refreshing, zero sugar, zero caffeine and oh yeah, a flavor that's like nothing you've ever tasted. Available Sizes: 12 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "CITRIC ACID",
+      "NATURAL AND ARTIFICIAL FLAVORS",
+      "POTASSIUM CITRATE",
+      "CONCENTRATED GRAPEFRUIT JUICE",
+      "ASPARTAME",
+      "POTASSIUM SORBATE (TO PROTECT TASTE)",
+      "ACESULFAME POTASSIUM",
+      "ACACIA GUM",
+      "POTASSIUM BENZOATE (TO PROTECT TASTE)",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM EDTA (TO PROTECT TASTE)",
+      "CAROB BEAN GUM"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can  (12 FL OZ)",
+      "servings_per_container": 12,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "35mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fresca/en_fresca_prod_black-cherry-citrus_12oz-can_750x750_v1.jpg",
+    "product_name": "Black Cherry Citrus"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "It's the grapefruit flavor you know with a crisp peach taste you'll love. It's a flavor experience born of sweet and citrus blends, with no sugar, no caffeine, and no calories. Available Sizes: 12 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "CITRIC ACID",
+      "NATURAL FLAVORS",
+      "POTASSIUM CITRATE",
+      "CONCENTRATED GRAPEFRUIT JUICE",
+      "ASPARTAME",
+      "POTASSIUM SORBATE (TO PROTECT TASTE)",
+      "ACESULFAME POTASSIUM",
+      "ACACIA GUM",
+      "POTASSIUM BENZOATE (TO PROTECT TASTE)",
+      "GLYCEROL ESTER OF ROSIN",
+      "CALCIUM DISODIUM EDTA (TO PROTECT TASTE)",
+      "CAROB BEAN GUM"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can  (12 FL OZ)",
+      "servings_per_container": 12,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "35mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fresca/en_fresca_prod_peach-citrus_12oz-can_750x750_v1.jpg",
+    "product_name": "Peach Citrus"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "Pair the crisp, tart taste of blackberry with a deliciously refreshing citrus and you get Blackberry Citrus. A moderately sweet drinking experience that's perfect on its own or mixed with your favorite cocktail. Available Sizes: 12 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "NATURAL FLAVORS",
+      "CITRIC ACID",
+      "POTASSIUM CITRATE",
+      "POTASSIUM SORBATE (TO PROTECT TASTE)",
+      "POTASSIUM BENZOATE",
+      "ASPARTAME",
+      "ACESULFAME POTASSIUM"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 FL OZ)",
+      "servings_per_container": 12,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "35mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fresca/en_fresca_prod_blackberry-citrus_12oz-can_750x750_v1.jpg",
+    "product_name": "Blackberry Citrus"
+  }
+]

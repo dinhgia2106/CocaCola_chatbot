@@ -1,0 +1,157 @@
+[
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "16 fl oz",
+      "23 fl oz"
+    ],
+    "description": "Imagine raspberry but way razzlier. Available Sizes: 12 fl oz, 16 fl oz, 23 fl oz",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 fl oz)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "120mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "21g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "42%",
+          "value": "21g"
+        },
+        "value": "21g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/peace-tea/packshots/2025-razzleberry-packshot-16oz.png",
+    "product_name": "Razzleberry"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "16 fl oz",
+      "23 fl oz"
+    ],
+    "description": "Achieve inner peach. Available Sizes: 12 fl oz, 16 fl oz, 23 fl oz",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": 100,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 fl oz)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "120mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "9%",
+        "value": "25g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "51%",
+          "value": "25g"
+        },
+        "value": "25g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/peace-tea/packshots/2025-justpeachy-packshot-16oz.png",
+    "product_name": "Just Peachy"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "16 fl oz",
+      "23 fl oz"
+    ],
+    "description": "Hit a mouth hole in one. Available Sizes: 12 fl oz, 16 fl oz, 23 fl oz",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 fl oz)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "120mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "21g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "42%",
+          "value": "21g"
+        },
+        "value": "21g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/peace-tea/packshots/2025-caddy-shack-packshot-16oz.png",
+    "product_name": "Caddy Shack®"
+  },
+  {
+    "available_sizes": [
+      "16 fl oz",
+      "23 fl oz"
+    ],
+    "description": "Your favorite flavor’s favorite flavor. Available Sizes: 16 fl oz, 23 fl oz",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": 140,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (16 fl oz)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "7%",
+        "value": "160mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "13%",
+        "value": "37g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "74%",
+          "value": "37g"
+        },
+        "value": "37g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/peace-tea/packshots/2025-sno-berry-packshot-16oz.png",
+    "product_name": "Sno-berry"
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "available_sizes": [
+      "8 fl oz",
+      "11.5 fl oz",
+      "32 fl oz",
+      "52 fl oz",
+      "76 fl oz (new)"
+    ],
+    "description": "Images of fresh lemons, simple ingredients, lemonade stands and hot summer days all come to mind when you think of “lemonade.” Made with real lemon juice and other all-natural ingredients, it’s everything you love about lemonade. Available Sizes: 8 fl oz, 11.5 fl oz, 32 fl oz, 52 fl oz, 76 fl oz (new)",
+    "ingredients": [
+      "CONTAINS PURE FILTERED WATER",
+      "LEMON JUICE",
+      "CANE SUGAR",
+      "NATURAL FLAVORS"
+    ],
+    "nutrition_facts": {
+      "calories": 110,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "20mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "11%",
+        "value": "29g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "54%",
+          "value": "27g"
+        },
+        "value": "27g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/lp-single-simply-lemonades/en_simply_prod_lemonade_750x750_v1.jpg",
+    "product_name": "Simply® Lemonade"
+  },
+  {
+    "available_sizes": [
+      "11.5 fl oz",
+      "52 fl oz",
+      "76 fl oz (new)"
+    ],
+    "description": "Our delicious lemonade is made simply, with natural ingredients and a delicate balance of sweet and sour. Delicious and refreshing, Simply Lemonade with Raspberry is a delightful, all-natural and non-GMO fruit juice beverage that tastes as close to homemade lemonade as you can get. Available Sizes: 11.5 fl oz, 52 fl oz, 76 fl oz (new)",
+    "ingredients": [
+      "CONTAINS PURE FILTERED WATER",
+      "CANE SUGAR",
+      "LEMON JUICE",
+      "RASPBERRY PUREE",
+      "NATURAL FLAVORS"
+    ],
+    "nutrition_facts": {
+      "calories": 110,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "10%",
+        "value": "27g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "50%",
+          "value": "25g"
+        },
+        "value": "25g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/lp-single-simply-lemonades/en_simply_prod_lemraspberry_750x750_v1.jpg",
+    "product_name": "Simply® Lemonade with Raspberry"
+  },
+  {
+    "available_sizes": [
+      "52 fl oz"
+    ],
+    "description": "Our delicious lemonade is made simply, with natural ingredients and a delicate balance of sweet and sour. Delicious and refreshing, Simply Lemonade with Blueberry is a delightful, all-natural and non-GMO fruit juice beverage that tastes as close to homemade lemonade as you can get. Available Sizes: 52 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "CANE SUGAR",
+      "LEMON JUICE",
+      "BLUEBERRY PUREE",
+      "NATURAL FLAVORS"
+    ],
+    "nutrition_facts": {
+      "calories": 110,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "10%",
+        "value": "28g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "52%",
+          "value": "26g"
+        },
+        "value": "26g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/lp-single-simply-lemonades/en_simply_prod_lemblueberry_750x750_v1.jpg",
+    "product_name": "Simply® Lemonade with Blueberry"
+  },
+  {
+    "available_sizes": [
+      "52 fl oz"
+    ],
+    "description": "Our delicious lemonade is made simply, with natural ingredients and a delicate balance of sweet and sour. Delicious and refreshing, Simply Lemonade with Strawberry is a delightful, all-natural and non-GMO fruit juice beverage that tastes as close to homemade lemonade as you can get. Available Sizes: 52 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "CANE SUGAR",
+      "LEMON JUICE",
+      "STRAWBERRY PUREE",
+      "NATURAL FLAVORS"
+    ],
+    "nutrition_facts": {
+      "calories": 110,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "10%",
+        "value": "27g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "50%",
+          "value": "25g"
+        },
+        "value": "26g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/lp-single-simply-lemonades/en_simply_prod_lemonade%20with%20strawberry_750x750_v1.jpg",
+    "product_name": "Simply® Lemonade with Strawberry"
+  },
+  {
+    "available_sizes": [
+      "52 fl oz"
+    ],
+    "description": "For Simply Limeade, we started with great-tasting limes and ended with a great-tasting fruit beverage. Delicious and refreshing, Simply Limeade is a delightful, all-natural and non-GMO fruit juice beverage that tastes as close to homemade as you can get. And like all Simply products, it has a “Fresh Taste Guarantee.” Available Sizes: 52 fl oz",
+    "ingredients": [
+      "CONTAINS PURE FILTERED WATER",
+      "LIME JUICE",
+      "CANE SUGAR",
+      "NATURAL FLAVORS"
+    ],
+    "nutrition_facts": {
+      "calories": 120,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "11%",
+        "value": "31g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "55%",
+          "value": "28g"
+        },
+        "value": "28g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/en_simply_prod_limeade_750x750_v1.jpg",
+    "product_name": "Simply® Limeade"
+  }
+]

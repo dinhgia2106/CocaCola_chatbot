@@ -1,0 +1,135 @@
+[
+  {
+    "available_sizes": [
+      "46 fl oz (new)"
+    ],
+    "description": "For Simply Light Orange Pulp Free, we carefully select real, ripe oranges and turn them into an orange juice drink that’s pulp free, with half the sugar and calories of our regular juice drink.* *50% less sugar and calories than our regular juice drinks. Calories: This product contains 50 calories. Our regular juice drinks contain 100 calories. Sugar: This product contains 11g of sugar. Our regular juice drinks contain 27g of sugar. Available Sizes: 46 fl oz (new)",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "ORANGE JUICE",
+      "LESS THAN 1% OF: VITAMIN C (ASCORBIC ACID)",
+      "NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "CITRUS PECTIN",
+      "STEVIA LEAF EXTRACT",
+      "BETA CAROTENE"
+    ],
+    "nutrition_facts": {
+      "calories": 50,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "0%",
+        "value": "10mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "4%",
+        "value": "12g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "11g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-lights/en_simply_prod_light_orange_juice_pulp_free_750x750_v1.jpg",
+    "product_name": "Simply® Light Orange Pulp Free"
+  },
+  {
+    "available_sizes": [
+      "52 fl oz"
+    ],
+    "description": "Simply Light Lemonade with Raspberry has found the perfect balance of real, simple ingredients and the classic lemonade experience, which means you can enjoy lemonade with 75% less sugar and calories than our regular lemonade.* *75% less sugar and calories than our regular lemonade. Calories: This product contains 25 calories. Simply Lemonade contains 120 calories. Sugar: This product contains 5g of sugar. Simply Lemonade contains 28g of sugar. Available Sizes: 52 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "LEMON JUICE",
+      "SUGAR",
+      "RASPBERRY PUREE",
+      "NATURAL FLAVORS",
+      "STEVIA LEAF EXTRACT"
+    ],
+    "nutrition_facts": {
+      "calories": 25,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "2%",
+        "value": "7g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "9%",
+          "value": "5g"
+        },
+        "value": "5g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-lights/en_simply_prod_light_raspberry_lemonade_750x750_v1.jpg",
+    "product_name": "Simply® Light Lemonade with Raspberry"
+  },
+  {
+    "available_sizes": [
+      "52 fl oz"
+    ],
+    "description": "Simply Light Lemonade has found the perfect balance of real, simple ingredients and the classic lemonade experience, which means you can enjoy lemonade with 75% less sugar and calories than our regular lemonade.* *75% less sugar and calories than our regular lemonade. Calories: This product contains 25 calories. Simply Lemonade contains 120 calories. Sugar: This product contains 5g of sugar. Simply Lemonade contains 28g of sugar. Available Sizes: 52 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "LEMON JUICE",
+      "SUGAR",
+      "STEVIA LEAF EXTRACT",
+      "NATURAL FLAVORS"
+    ],
+    "nutrition_facts": {
+      "calories": 25,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "3%",
+        "value": "7g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "10%",
+          "value": "5g"
+        },
+        "value": "5g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-lights/en_simply_prod_light_lemonade_750x750_v1.jpg",
+    "product_name": "Simply® Light Lemonade"
+  }
+]

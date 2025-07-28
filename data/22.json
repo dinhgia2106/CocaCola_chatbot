@@ -1,0 +1,585 @@
+[
+  {
+    "available_sizes": [
+      "6 fl oz",
+      "12 fl oz",
+      "16.9 fl oz",
+      "20 fl oz",
+      "59 fl oz",
+      "2 Liters"
+    ],
+    "description": "Mix things up. Minute Maid Fruit Punch combines a number of delectable fruit flavors together in a refreshing, delicious blend that's made with real fruit juice. A 5% JUICE BLEND OF GRAPE, PINEAPPLE, PEAR AND APPLE JUICES FROM CONCENTRATE Available Sizes: 6 fl oz, 12 fl oz, 16.9 fl oz, 20 fl oz, 59 fl oz, 2 Liters",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "GRAPE AND PINEAPPLE JUICES FROM CONCENTRATE",
+      "LESS THAN 1% OF: PEAR AND APPLE JUICES FROM CONCENTRATE",
+      "NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "SUCRALOSE",
+      "GRAPE SKIN EXTRACT (FOR COLOR)"
+    ],
+    "nutrition_facts": {
+      "calories": 90,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "9%",
+        "value": "25g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "44%",
+          "value": "22g"
+        },
+        "value": "24g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Fruit%20Punch_59oz_DT.png",
+    "product_name": "Fruit Punch"
+  },
+  {
+    "available_sizes": [
+      "6 fl oz",
+      "7.5 fl oz",
+      "12 fl oz",
+      "16.9 fl oz",
+      "20 fl oz",
+      "59 fl oz",
+      "2 Liters",
+      "12 fl oz frozen can"
+    ],
+    "description": "Classics never go out of style. Made with the goodness of real lemons, Minute Maid Lemonade is the quintessential refreshing beverage with the great taste of a simpler time. A 12% JUICE BLEND OF LEMON FROM CONCENTRATE Available Sizes: 6 fl oz, 7.5 fl oz, 12 fl oz, 16.9 fl oz, 20 fl oz, 59 fl oz, 2 Liters, 12 fl oz frozen can",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "LEMON JUICE FROM CONCENTRATE",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "LESS THAN 1% OF: LEMON PULP",
+      "NATURAL FLAVORS",
+      "PECTIN",
+      "SUCRALOSE",
+      "ACESULFAME POTASSIUM"
+    ],
+    "nutrition_facts": {
+      "calories": 70,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "7%",
+        "value": "18g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "33%",
+          "value": "17g"
+        },
+        "value": "17g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Lemonade_59oz_DT.png",
+    "product_name": "Lemonade"
+  },
+  {
+    "available_sizes": [
+      "20 fl oz",
+      "59 fl oz"
+    ],
+    "description": "Send your mouth on vacation. Minute Maid Tropical Punch blends real fruit juices, including pineapple, orange, passionfruit and grape, for a true taste of the islands. A 7% JUICE BLEND OF PINEAPPLE, ORANGE, PASSIONFRUIT, AND GRAPE JUICES FROM CONCENTRATE AND OTHER INGREDIENTS Available Sizes: 20 fl oz, 59 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "PINEAPPLE AND ORANGE JUICES FROM CONCENTRATE",
+      "LESS THAN 1% OF: PASSIONFRUIT AND GRAPE JUICES FROM CONCENTRATE",
+      "NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "GRAPE SKIN EXTRACT (FOR COLOR)",
+      "SUCRALOSE"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "20mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "23g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "40%",
+          "value": "20g"
+        },
+        "value": "22g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Tropical%20Punch_59oz_DT.png",
+    "product_name": "Tropical Punch"
+  },
+  {
+    "available_sizes": [
+      "20 fl oz",
+      "59 fl oz"
+    ],
+    "description": "Made with real fruit juice, Minute Maid Berry Punch Flavored Drink tickles your taste buds with a touch of berry goodness. A 5% JUICE BLEND OF GRAPE, PEAR AND STRAWBERRY JUICES FROM CONCENTRATE Available Sizes: 20 fl oz, 59 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "GRAPE JUICE FROM CONCENTRATE",
+      "LESS THAN 1% OF: PEAR AND STRAWBERRY JUICES FROM CONCENTRATE",
+      "NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "SUCRALOSE"
+    ],
+    "nutrition_facts": {
+      "calories": 90,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "9%",
+        "value": "24g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "44%",
+          "value": "22g"
+        },
+        "value": "24g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/minute-maid-berry-punch-59floz.png",
+    "product_name": "Berry Punch"
+  },
+  {
+    "available_sizes": [
+      "59 fl oz"
+    ],
+    "description": "It’s everything you love about traditional lemonade plus the sweetness of plump, ripe strawberries. Made with the goodness of real fruit juice and 100% natural flavors, our strawberry lemonade is a classic that never goes out of style. A 3% JUICE BLEND OF LEMON AND STRAWBERRY JUICES FROM CONCENTRATE AND OTHER INGREDIENTS Available Sizes: 59 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "LEMON JUICE FROM CONCENTRATE",
+      "LESS THAN 1% OF: STRAWBERRY JUICE FROM CONCENTRATE",
+      "NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "SUCRALOSE",
+      "VEGETABLE AND FRUIT JUICE (FOR COLOR)",
+      "MODIFIED CORNSTARCH",
+      "GLYCEROL ESTER OF ROSIN",
+      "POTASSIUM CITRATE (REGULATES TARTNESS)"
+    ],
+    "nutrition_facts": {
+      "calories": 70,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "20mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "7%",
+        "value": "20g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "37%",
+          "value": "18g"
+        },
+        "value": "18g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Strawberry%20Lemonad_59oz_DT.png",
+    "product_name": "Strawberry Lemonade"
+  },
+  {
+    "available_sizes": [
+      "20 fl oz",
+      "59 fl oz",
+      "2 Liters"
+    ],
+    "description": "Our Peach Flavored Juice Drink offers the punchy flavor of a delicious peach, no matter the season. Porch swing and rocking chair are not included, but you may want to pick ′em up! A 5% JUICE BLEND OF APPLE AND PEACH JUICES FROM CONCENTRATE Available Sizes: 20 fl oz, 59 fl oz, 2 Liters",
+    "ingredients": [
+      "CONTAINS PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "APPLE AND PEACH JUICES FROM CONCENTRATE",
+      "LESS THAN 0.5% OF: NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "VEGETABLE AND FRUIT JUICES (FOR COLOR)"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": null
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "10%",
+        "value": "31g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "29g"
+        },
+        "value": "30g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid_%20Peach%20Punch_59oz_MO.png",
+    "product_name": "Peach Punch"
+  },
+  {
+    "available_sizes": [
+      "59 fl oz"
+    ],
+    "description": "Take a tasty tropical break with Minute Maid Mango Punch flavored fruit drink. It’s the sunny, delicious taste of mango in a perfectly refreshing beverage. A 5% JUICE BLEND OF MANGO, APPLE, PEAR AND PINEAPPLE JUICES FROM CONCENTRATE Available Sizes: 59 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "MANGO PUREE FROM CONCENTRATE",
+      "APPLE",
+      "PEAR AND PINEAPPLE JUICES FROM CONCENTRATE",
+      "LESS THAN 0.5% OF:NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "SUCRALOSE",
+      "TURMERIC AND VEGETABLE JUICE (FOR COLOR)"
+    ],
+    "nutrition_facts": {
+      "calories": 90,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "9%",
+        "value": "25g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "45%",
+          "value": "23g"
+        },
+        "value": "24g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Mango%20Punch_59oz_DT.png",
+    "product_name": "Mango Punch"
+  },
+  {
+    "available_sizes": [
+      "20 fl oz",
+      "59 fl oz",
+      "2 Liters"
+    ],
+    "description": "Made with real fruit juice, Minute Maid Watermelon Punch tickles your taste buds with a touch of watermelon deliciousness. A 5% JUICE BLEND OF WATERMELON, GRAPE, PEAR, AND APPLE JUICES FROM CONCENTRATE AND OTHER INGREDIENTS Available Sizes: 20 fl oz, 59 fl oz, 2 Liters",
+    "ingredients": [
+      "CONTAINS PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "WATERMELON",
+      "GRAPE",
+      "PEAR AND APPLE JUICES FROM CONCENTRATE",
+      "LESS THAN 1% OF: NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "SUCRALOSE"
+    ],
+    "nutrition_facts": {
+      "calories": 100,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "10%",
+        "value": "27g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "50%",
+          "value": "25g"
+        },
+        "value": "26g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid_%20Watermelon_59oz_DT.png",
+    "product_name": "Watermelon"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "20 fl oz",
+      "59 fl oz",
+      "2 Liters",
+      "12 fl oz frozen can"
+    ],
+    "description": "A twist on something sweet, Minute Maid Pink Lemonade is made with real lemons for a deliciously sunny, smile-inducing taste that truly refreshes. A 13% JUICE BLEND OF LEMON AND GRAPE JUICES FROM CONCENTRATE Available Sizes: 12 fl oz, 20 fl oz, 59 fl oz, 2 Liters, 12 fl oz frozen can",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "LEMON JUICE FROM CONCENTRATE",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "GRAPE JUICE FROM CONCENTRATE (FOR COLOR)",
+      "LESS THAN 1% OF: LEMON PULP",
+      "NATURAL FLAVORS",
+      "SUCRALOSE",
+      "ACESULFAME POTASSIUM",
+      "PECTIN"
+    ],
+    "nutrition_facts": {
+      "calories": 70,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "7%",
+        "value": "18g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "32%",
+          "value": "16g"
+        },
+        "value": "17g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Pink%20Lemonad_59oz_MO.png",
+    "product_name": "Pink Lemonade"
+  },
+  {
+    "available_sizes": [
+      "59 fl oz"
+    ],
+    "description": "Minute Maid Strawberry Kiwi blends the tartness of kiwi with sweet strawberries to create one flavorful, delicious drink made with real fruit juice. A 5% JUICE BLEND OF PEAR, STRAWBERRY AND KIWI JUICES FROM CONCENTRATE Available Sizes: 59 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "PEAR",
+      "STRAWBERRY AND CLARIFIED KIWI JUICES FROM CONCENTRATE",
+      "LESS THAN 0.5% OF: NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "FRUIT AND VEGETABLE JUICE (FOR COLOR)",
+      "SUCRALOSE"
+    ],
+    "nutrition_facts": {
+      "calories": 80,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 7,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "15mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "8%",
+        "value": "22g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "39%",
+          "value": "20g"
+        },
+        "value": "21g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid_%20Strawberry%20Kiwi_59oz_DT.png",
+    "product_name": "Strawberry Kiwi"
+  },
+  {
+    "available_sizes": [
+      "20 fl oz"
+    ],
+    "description": "Minute Maid Kiwi Strawberry blends the tartness of kiwi with sweet strawberries into one delicious juice drink. Bring this refreshing medley of fruit flavors wherever you go. A 3% JUICE BLEND OF PEAR, KIWI, AND STRAWBERRY JUICES FROM CONCENTRATE Available Sizes: 20 fl oz",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "PEAR AND KIWI JUICES FROM CONCENTRATE",
+      "LESS THAN 0.5% OF: STRAWBERRY JUICE FROM CONCENTRATE",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "NATURAL FLAVORS",
+      "MODIFIED CORN STARCH",
+      "GLYCEROL ESTER OF ROSIN",
+      "SODIUM HEXAMETAPHOSPHATE AND SODIUM BENZOATE AND POTASSIUM SORBATE AND CALCIUM DISODIUM EDTA (TO PROTECT TASTE)",
+      "SUGAR",
+      "YELLOW #5",
+      "BLUE #1"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 2,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "80mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "46%",
+          "value": "23g"
+        },
+        "value": "24g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/en_minute-maid_prod_lemonades-fruit-drinks-kiwi-strawberry-20oz_750x750_v1.jpg",
+    "product_name": "Kiwi Strawberry"
+  },
+  {
+    "available_sizes": [
+      "20 fl oz",
+      "2 Liters"
+    ],
+    "description": "Minute Maid Blue Raspberry is deliciously sweet with a twist of tart - an exciting blend of flavors that's refreshingly fun! A 3% JUICE BLEND OF PEAR AND RASPBERRY JUICES FROM CONCENTRATE Available Sizes: 20 fl oz, 2 Liters",
+    "ingredients": [
+      "PURE FILTERED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "PEAR JUICE FROM CONCENTRATE",
+      "LESS THAN 0.5% OF: RASPBERRY JUICE FROM CONCENTRATE",
+      "NATURAL FLAVORS",
+      "CITRIC ACID (PROVIDES TARTNESS)",
+      "MODIFIED CORNSTARCH",
+      "GLYCEROL ESTER OF ROSIN",
+      "SODIUM HEXAMETAPHOSPHATE AND SODIUM BENZONATE AND POTASSIUM SORBATE AND CALCIUM DISODIUM EDTA (TO PROTECT TASTE)",
+      "BLUE 1"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "8 fl oz (240 mL)",
+      "servings_per_container": 2,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "80mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "50%",
+          "value": "25g"
+        },
+        "value": "26g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/MM_Blue-Raspberry_20oz_Bottle_DT.png",
+    "product_name": "Blue Raspberry"
+  }
+]

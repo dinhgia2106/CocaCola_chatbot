@@ -1,0 +1,145 @@
+[
+  {
+    "available_sizes": [],
+    "description": "Diet Cherry Coke® is making a limited-time comeback. Enjoy the great taste of Diet Cherry Coke®, a diet cola with no sugar and no calories and rocking retro cherry packaging inspired by the iconic Cherry Coke® cans from the '80s. Available exclusively at the Kroger Family of Stores for a limited time only. Available Sizes: Diet Coke Cherry Fridge Pack Cans, 12 fl oz, 12 PackDiet Coke Cherry Bottle, 20 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "LESS THAN 2% OF: CARAMEL COLOR",
+      "PHOSPHORIC ACID",
+      "POTASSIUM BENZOATE (TO PROTECT TASTE)",
+      "ASPARTAME",
+      "NATURAL FLAVORS",
+      "ACESULFAME POTASSIUM",
+      "CAFFEINE"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "1%",
+        "value": "30mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/diet-coke/diet-cherry-coke-packshot.jpg",
+    "product_name": "Limited-Edition Diet Cherry Coke®"
+  },
+  {
+    "available_sizes": [
+      "7.5 fl oz",
+      "8 fl oz",
+      "12 fl oz",
+      "13.2 fl oz",
+      "16.9 fl oz",
+      "20 fl oz",
+      "1.25 Liters",
+      "2 Liters"
+    ],
+    "description": "it's the one and only Diet Coke®. it's your everyday hero. your deliciously fizzy go-to companion. it might have a brand new look, but it's the same Diet Coke® you know and love. oh yeah, and it's incredibly refreshing. always. Available Sizes: 7.5 fl oz, 8 fl oz, 12 fl oz, 13.2 fl oz, 16.9 fl oz, 20 fl oz, 1.25 Liters, 2 Liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "CARAMEL COLOR",
+      "ASPARTAME",
+      "PHOSPHORIC ACID",
+      "POTASSIUM BENZOATE (TO PROTECT TASTE)",
+      "NATURAL FLAVORS",
+      "CITRIC ACID",
+      "CAFFEINE"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "40mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_prod_original_en_diet%20coke_prod_caffeine%20free_750x750_v1.jpg",
+    "product_name": "Diet Coke®"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "2 Liters"
+    ],
+    "description": "Caffeine-free Diet Coke is the original great taste of Diet Coke, with no caffeine. A great choice for an afternoon or evening beverage. Available Sizes: 12 fl oz, 2 Liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "CARAMEL COLOR",
+      "ASPARTAME",
+      "PHOSPHORIC ACID",
+      "POTASSIUM BENZOATE (TO PROTECT TASTE)",
+      "NATURAL FLAVORS",
+      "CITRIC ACID"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can  (12 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "40mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_prod_caffeine%20free_750x750_v1.jpg",
+    "product_name": "Caffeine Free Diet Coke®"
+  }
+]

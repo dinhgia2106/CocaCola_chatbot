@@ -1,0 +1,405 @@
+[
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "12 fl oz 12 pk",
+      "20 fl oz"
+    ],
+    "description": "It’s time to hit up the squad, because the ultimate refreshing soft drink is finally here for a limited time. Sprite + Tea combines the classic lemon-lime soda you love with other natural tea flavors, to create a whole new class of refreshment. Available Sizes: 12 fl oz, 12 fl oz 12 pk, 20 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "LESS THAN 2% OF: NATURAL FLAVORS",
+      "CITRIC ACID",
+      "CARAMEL COLOR",
+      "SODIUM CITRATE",
+      "SODIUM BENZOATE AND POTASSIUM SORBATE (TO PROTECT TASTE)"
+    ],
+    "nutrition_facts": {
+      "calories": 230,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "4%",
+        "value": "95mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "22%",
+        "value": "61g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "123%",
+          "value": "61g"
+        },
+        "value": "61g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/sprite-tea/products/spritetea-products-new.png",
+    "product_name": "Sprite + Tea"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "12 fl oz 12 pk"
+    ],
+    "description": "It’s time to hit up the squad, because the ultimate refreshing soft drink is finally here for a limited time. Sprite + Tea Zero Sugar combines the classic lemon-lime soda you love with other natural tea flavors, to create a whole new class of refreshment with zero sugar. Available Sizes: 12 fl oz, 12 fl oz 12 pk",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "40mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/sprite-tea/products/spriteteazs-products-new.png",
+    "product_name": "Sprite + Tea Zero Sugar"
+  },
+  {
+    "available_sizes": [
+      "7.5 fl oz",
+      "8 fl oz",
+      "12 fl oz",
+      "13.2 fl oz",
+      "16.9 fl oz",
+      "20 fl oz",
+      "1 Liter",
+      "1.25 Liters",
+      "2 Liters",
+      "3 Liters"
+    ],
+    "description": "The OG, the flavor that started it all—classic, cool, crisp lemon-lime taste that’s caffeine free with 100% natural flavors. Available Sizes: 7.5 fl oz, 8 fl oz, 12 fl oz, 13.2 fl oz, 16.9 fl oz, 20 fl oz, 1 Liter, 1.25 Liters, 2 Liters, 3 Liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVORS",
+      "SODIUM CITRATE",
+      "SODIUM BENZOATE (TO PROTECT TASTE)"
+    ],
+    "nutrition_facts": {
+      "calories": 140,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "65mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "14%",
+        "value": "38g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "76%",
+          "value": "38g"
+        },
+        "value": "38g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/products/en_sprite_prod_12oz-can_750x750_v1.jpg",
+    "product_name": "Sprite"
+  },
+  {
+    "available_sizes": [
+      "7.5 fl oz",
+      "12 fl oz",
+      "16.9 fl oz",
+      "20 fl oz",
+      "2 Liters"
+    ],
+    "description": "Who says you can’t do more with less? The iconic great taste of Sprite with zero sugar. Available Sizes: 7.5 fl oz, 12 fl oz, 16.9 fl oz, 20 fl oz, 2 Liters",
+    "ingredients": [
+      "CARBONATED WATER",
+      "CITRIC ACID",
+      "POTASSIUM CITRATE",
+      "NATURAL FLAVORS",
+      "POTASSIUM BENZOATE (TO PROTECT TASTE)",
+      "ASPARTAME",
+      "ACESULFAME POTASSIUM"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can  (12 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "35mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/products/en_sprite_prod_zero-sugar_12oz-can_750x750_v1.jpg",
+    "product_name": "Sprite Zero Sugar"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "20 fl oz",
+      "12 fl oz - 12 pack"
+    ],
+    "description": "Sprite Chill, the coldest-est lemon-lime flavored soda in the game featuring a cherry lime taste and a unique cooling effect. Available Sizes: 12 fl oz, 20 fl oz, 12 fl oz - 12 pack",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": 140,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "55mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "14%",
+        "value": "38g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "76%",
+          "value": "38g"
+        },
+        "value": "38g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/products/us-sprite-chill-packshot-2025-full-sugar.png",
+    "product_name": "Sprite Chill"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "12 fl oz - 12 pack"
+    ],
+    "description": "Zero sugar. All the chill. Sprite Chill Zero Sugar, the coldest-est lemon-lime flavored soda in the game featuring a cherry lime taste with zero sugar. Available Sizes: 12 fl oz, 12 fl oz - 12 pack",
+    "ingredients": [],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "45mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/products/us-sprite-chill-packshot-2025-zero-sugar.png",
+    "product_name": "Sprite Chill Zero Sugar"
+  },
+  {
+    "available_sizes": [
+      "20 fl oz"
+    ],
+    "description": "An ode to our past for all the Sprite Remix fans from the early 2000s. Rediscover the combination of the crisp, familiar Sprite lemon-lime taste with delicious strawberry and pineapple flavors. Available Sizes: 20 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVORS",
+      "SODIUM CITRATE",
+      "SODIUM BENZOATE"
+    ],
+    "nutrition_facts": {
+      "calories": 240,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "110mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "23%",
+        "value": "63g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "126%",
+          "value": "63g"
+        },
+        "value": "63g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/products/en_sprite_prod_tropical-mix_20oz-bottle_750x750_v1.jpg",
+    "product_name": "Sprite Tropical Mix"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "20 fl oz"
+    ],
+    "description": "Just a splash makes all the difference. Sprite + Lemonade. Available SIzes: 12 fl oz, 20 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CLARIFIED LEMON JUICE FROM CONCENTRATE",
+      "CITRIC ACID",
+      "NATURAL FLAVORS",
+      "SODIUM BENZOATE (TO PROTECT TASTE)",
+      "SODIUM CITRATE",
+      "POTASSIUM SORBATE (TO PROTECT TASTE)",
+      "MODIFIED FOOD STARCH",
+      "GLYCEROL ESTER OF ROSIN",
+      "YELLOW 5"
+    ],
+    "nutrition_facts": {
+      "calories": 220,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 Fl. oz)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "110mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "21%",
+        "value": "59g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "115%",
+          "value": "57g"
+        },
+        "value": "57g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/products/en_sprite_prod_lymonade_20oz-bottle_750x750_v1.jpg",
+    "product_name": "Sprite Lymonade"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "20 fl oz"
+    ],
+    "description": "You were already drinking it with Coca‑Cola Freestyle, so we bottled it. Ice-cold refreshment with just the right amount of cherry. Available Sizes: 12 fl oz, 20 fl oz",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CITRIC ACID",
+      "NATURAL FLAVORS",
+      "SODIUM CITRATE",
+      "SODIUM BENZOATE (TO PROTECT TASTE)"
+    ],
+    "nutrition_facts": {
+      "calories": 200,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle  (12 Fl. oz)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "5%",
+        "value": "110mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "20%",
+        "value": "54g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "108%",
+          "value": "54g"
+        },
+        "value": "54g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/products/en_sprite_prod_cherry_20oz-bottle_750x750_v1.jpg",
+    "product_name": "Sprite Cherry"
+  }
+]

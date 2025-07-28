@@ -1,0 +1,88 @@
+[
+  {
+    "available_sizes": [
+      "20 fl oz",
+      "23.7 fl oz",
+      "33.8 fl oz",
+      "50.7 fl oz"
+    ],
+    "description": "every drop of smartwater tastes pure and will leave you feeling refreshed. it’s everything you want from a bottled water—pure, hydrating, and crisp. it might be thanks to the fact that it’s vapor distilled through a process inspired by the clouds. or the fact that we’ve added electrolytes for taste. either way, you can bet on a premium water experience with every bottle. available sizes: 20 fl oz, 23.7 fl oz, 33.8 fl oz, 50.7 fl oz",
+    "ingredients": [
+      "VAPOR DISTILLED WATER",
+      "CALCIUM CHLORIDE AND MAGNESIUM CHLORIDE AND POTASSIUM BICARBONATE (ELECTROLYTE SOURCES*) *ELECTROLYTES ADDED FOR TASTE"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 bottle (33.8 FL OZ)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "0%",
+        "value": "0mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/smartwater/june25/smartwater-bottle-product-us-revised.png",
+    "product_name": "smartwater"
+  },
+  {
+    "available_sizes": [
+      "23.7 fl oz",
+      "33.8 fl oz",
+      "50.7 fl oz"
+    ],
+    "description": "every drop of our smartwater alkaline water with antioxidant tastes pure and will leave you feeling refreshed. It’s everything you want from bottled water—pure, hydrating, and crisp. it might be the fact that it’s vapor distilled through a process inspired by the clouds. or the fact that we’ve added electrolytes for taste into every bottle. it might even be that it’s ionized to a 9.5+pH. either way, you can bet on a premium water experience with every bottle. available sizes: 23.7 fl oz, 33.8 fl oz, 50.7 fl oz",
+    "ingredients": [
+      "VAPOR DISTILLED WATER",
+      "CALCIUM CHLORIDE AND MAGNESIUM CHLORIDE AND POTASSIUM BICARBONATE (ELECTROLYTE SOURCES*)",
+      "SODIUM SELENATE"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0g"
+      },
+      "serving_size": "1 bottle (33.8 FL OZ)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "0%",
+        "value": "0mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/smartwater/june25/bottle-alk-us.png",
+    "product_name": "smartwater alkaline with antioxidant"
+  }
+]
