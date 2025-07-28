@@ -184,7 +184,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/za/en/products/2.desktop.png",
     "product_name": "Appletiser",
     "country": "za",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép táo cô đặc, chứa khí CO2."
@@ -229,7 +229,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/za/home-images-south-africa/en/products/redappletiser.png",
     "product_name": "Appletiser Red Grapetiser",
     "country": "za",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép nho cô đặc, chiết xuất vỏ nho, chứa khí CO2."
@@ -273,7 +273,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/za/en/products/1.desktop.png",
     "product_name": "White Grapetiser",
     "country": "za",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép nho cô đặc, chứa khí CO2."
@@ -1248,7 +1248,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/vitaminwater/products/vitaminwater-zero-sugar/re-hydrate-zero-sugar-pineapple-passionfruit.jpg",
     "product_name": "re-hydrate zero sugar pineapple passionfruit",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước tăng cường dinh dưỡng với hương vị trái cây, không đường, chứa vitamin và chất điện giải."
@@ -1314,7 +1314,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/vitaminwater/products/vitaminwater-zero-sugar/squeezed-lemonade.jpg",
     "product_name": "squeezed lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước chanh ép với vitamin và khoáng chất."
@@ -1378,7 +1378,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/vitaminwater/products/vitaminwater-zero-sugar/xxx-acai-blueberry-pomegranate.jpg",
     "product_name": "xxx açai blueberry pomegranate",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước tăng cường dinh dưỡng với hương vị trái cây, không đường, chứa chất chống oxy hóa và vitamin."
@@ -1441,7 +1441,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/vitaminwater/products/vitaminwater-zero-sugar/shine-strawberry-lemonade.jpg",
     "product_name": "shine strawberry lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước tăng cường dinh dưỡng với hương vị dâu tây chanh, không đường, chứa vitamin."
@@ -1507,7 +1507,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/vitaminwater/products/vitaminwater-zero-sugar/rise-orange.jpg",
     "product_name": "rise orange",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước tăng cường dinh dưỡng với hương vị cam, không đường, chứa vitamin C và kẽm."
@@ -1568,7 +1568,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/vitaminwater/products/vitaminwater-zero-sugar/power-c-dragonfruit-zero.jpg",
     "product_name": "power-c dragonfruit",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước tăng cường dinh dưỡng với hương vị thanh long, không đường, chứa vitamin C và kẽm."
@@ -2659,7 +2659,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-lights/en_simply_prod_light_orange_juice_pulp_free_750x750_v1.jpg",
     "product_name": "Simply® Light Orange Pulp Free",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép cam ít đường, có thành phần chính là nước ép cam và nước lọc."
@@ -2708,7 +2708,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-lights/en_simply_prod_light_raspberry_lemonade_750x750_v1.jpg",
     "product_name": "Simply® Light Lemonade with Raspberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước chanh pha lê với mâm xôi, ít đường, có thành phần chính là nước chanh và mâm xôi."
@@ -2756,7 +2756,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-lights/en_simply_prod_light_lemonade_750x750_v1.jpg",
     "product_name": "Simply® Light Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước chanh pha lê ít đường, có thành phần chính là nước chanh."
@@ -2806,7 +2806,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/en_simply_prod_peach%20juice%20drink_750x750_v1.jpg",
     "product_name": "Simply® Peach",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép đào, có thành phần chính là nước ép đào và đường mía."
@@ -2849,7 +2849,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/en_simply_prod_apple_750x750_v1.jpg",
     "product_name": "Simply® Apple",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép táo 100%, không có thông tin chi tiết nhưng dựa trên mô tả thì đây là nước ép trái cây."
@@ -2897,7 +2897,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/en_simply_prod_cranberry_750x750_v1.jpg",
     "product_name": "Simply® Cranberry Cocktail",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Cocktail việt quất, có thành phần chính là nước ép việt quất và đường mía."
@@ -2945,7 +2945,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/simply-mango-project-image-v2.jpg",
     "product_name": "Simply® Mango",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép xoài, có thành phần chính là nước ép xoài và đường mía."
@@ -2994,7 +2994,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/simply-strawberry-product-image-v2.jpg",
     "product_name": "Simply® Strawberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép dâu tây, có thành phần chính là nước ép dâu tây và đường mía."
@@ -3045,7 +3045,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/en_simply_prod_fruitpunch_750x750_v1.jpg",
     "product_name": "Simply® Fruit Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Sinh tố trái cây, có thành phần chính là hỗn hợp các loại nước ép trái cây và đường mía."
@@ -3095,7 +3095,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/en_simply_prod_watermelon_750x750_v1.jpg",
     "product_name": "Simply® Watermelon",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép dưa hấu, có thành phần chính là nước ép dưa hấu và đường mía."
@@ -3139,7 +3139,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/en_simply_prod_grapefruit_750x750_v1.jpg",
     "product_name": "Simply® Grapefruit",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép bưởi."
@@ -3188,7 +3188,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/en_simply_prod_pineapple_750x750_v1.jpg",
     "product_name": "Simply® Pineapple",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép dứa, đường mía, nước ép chanh và hỗn hợp trái cây khác."
@@ -3239,7 +3239,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/lp-single-simply-lemonades/en_simply_prod_lemonade_750x750_v1.jpg",
     "product_name": "Simply® Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép chanh, đường mía và hương liệu tự nhiên."
@@ -3289,7 +3289,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/lp-single-simply-lemonades/en_simply_prod_lemraspberry_750x750_v1.jpg",
     "product_name": "Simply® Lemonade with Raspberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép chanh, mứt mâm xôi, đường mía và hương liệu tự nhiên."
@@ -3337,7 +3337,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/lp-single-simply-lemonades/en_simply_prod_lemblueberry_750x750_v1.jpg",
     "product_name": "Simply® Lemonade with Blueberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép chanh, mứt việt quất, đường mía và hương liệu tự nhiên."
@@ -3385,7 +3385,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/lp-single-simply-lemonades/en_simply_prod_lemonade%20with%20strawberry_750x750_v1.jpg",
     "product_name": "Simply® Lemonade with Strawberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép chanh, mứt dâu tây, đường mía và hương liệu tự nhiên."
@@ -3432,7 +3432,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/simply-juices/en_simply_prod_limeade_750x750_v1.jpg",
     "product_name": "Simply® Limeade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép chanh dây, đường mía và hương liệu tự nhiên."
@@ -3481,7 +3481,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/orange-/packshots/simply-orange-pulp-free.png",
     "product_name": "Simply® Orange Pulp Free",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép cam, không có bã."
@@ -3527,7 +3527,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/orange-/packshots/simply-orange-low-acid.png",
     "product_name": "Simply® Orange Low Acid",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước ép cam với độ axit thấp."
@@ -3575,7 +3575,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/orange-/packshots/simply-orange-calcium-vit-d.png",
     "product_name": "Simply® Orange Pulp Free with Calcium & Vitamin D",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép cam, không có bã, bổ sung canxi và vitamin D."
@@ -3621,7 +3621,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/orange-/packshots/simply-orange-medium-pulp-calcium-vit-d.png",
     "product_name": "Simply® Orange Medium Pulp with Calcium & Vitamin D",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước cam ép 100% với bổ sung canxi và vitamin D."
@@ -3667,7 +3667,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/orange-/packshots/simply-orange-high-pulp.png",
     "product_name": "Simply® Orange High Pulp",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước cam ép 100% với nhiều múi cam."
@@ -3714,7 +3714,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/orange-/packshots/simply-orange-with-mango.png",
     "product_name": "Simply® Orange with Mango",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Hỗn hợp nước cam và xoài ép 100%."
@@ -3759,7 +3759,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/simply/orange-/packshots/simply-orange-with-pineapple.png",
     "product_name": "Simply® Orange with Pineapple",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Hỗn hợp nước cam và dứa ép 100%."
@@ -4003,7 +4003,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/peace-tea/packshots/2025-razzleberry-packshot-16oz.png",
     "product_name": "Razzleberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Thấp",
     "classification_reasoning": "Tên sản phẩm gợi ý về một loại nước trái cây, nhưng thiếu thông tin chi tiết."
@@ -4178,7 +4178,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/frozen/en_minutemaid_prod_orangejuicefrozenoriginal12oz_750x750_v1.jpg",
     "product_name": "Premium Original Orange Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép cam nguyên chất."
@@ -4223,7 +4223,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/frozen/en_minutemaid_prod_orangejuicefrozencalcium12oz_750x750_v1.jpg",
     "product_name": "Orange Juice with Calcium and Vitamin D",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước cam ép bổ sung canxi và vitamin D."
@@ -4267,7 +4267,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/frozen/en_minutemaid_prod_orangejuicefrozenpulpfree12oz_750x750_v1.jpg",
     "product_name": "Pulp Free Orange Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép cam nguyên chất không có cùi."
@@ -4312,7 +4312,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/frozen/en_minutemaid_prod_orangejuicefrozencountrystyle12oz_750x750_v1.jpg",
     "product_name": "Country Style Orange Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước cam ép có cùi."
@@ -4361,7 +4361,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/frozen/en_minutemaid_prod_lemonadefrozenpulpfree12oz_750x750_v1.jpg",
     "product_name": "Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước cốt chanh và các thành phần tự nhiên khác."
@@ -4410,7 +4410,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/frozen/en_minutemaid_prod_limeadefrozen12oz_750x750_v1.jpg",
     "product_name": "Limeade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước chanh dây từ nước chanh dây thật."
@@ -4460,7 +4460,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/frozen/en_minutemaid_prod_lemonadesfruitdrinksfrozenpinklemonade12oz_750x750_v1.jpg",
     "product_name": "Pink Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép chanh và nho."
@@ -4510,7 +4510,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/frozen/en_minutemaid_prod_lemonadesfruitdrinksfrozenraspberrylemonade12oz_750x750_v1.jpg",
     "product_name": "Raspberry Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép mâm xôi và chanh, mặc dù có thêm đường."
@@ -4555,7 +4555,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/frozen/en_minutemaid_prod_premiumlemonjuice7.5flozplasticbottle_750x750_v1.jpg",
     "product_name": "Premium Lemon Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép chanh nguyên chất."
@@ -4605,7 +4605,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/kids/en_minute-maid_prod_apple_juice_177ml_750x750_v1.jpg",
     "product_name": "Apple Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước táo ép từ cô đặc, bổ sung Vitamin C."
@@ -4654,7 +4654,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/kids/en_minute-maid_prod_mixed_berry_177ml_750x750_v1.jpg",
     "product_name": "Mixed Berry Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Hỗn hợp nước ép quả mọng, có thêm một số chất bổ sung."
@@ -4709,7 +4709,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/kids/en_minute-maid_prod_fruit_punch_177ml_750x750_v1.jpg",
     "product_name": "Fruit Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa hỗn hợp nước ép trái cây."
@@ -4764,7 +4764,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/kids/en_minute-maid_prod_lemonade_177ml_750x750_v1.jpg",
     "product_name": "Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước cốt chanh và các thành phần tự nhiên khác."
@@ -4812,7 +4812,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_apple_juice_100vitc_750x750_v1.jpg",
     "product_name": "Apple Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước táo ép từ cô đặc, bổ sung Vitamin C."
@@ -4865,7 +4865,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_apple_raspberry_750x750_v1.jpg",
     "product_name": "Cranberry Apple Raspberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Trung bình",
     "classification_reasoning": "Hỗn hợp nước ép trái cây, có thêm đường và siro ngô giàu fructose."
@@ -4917,7 +4917,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_crangrape_750x750_v1.jpg",
     "product_name": "Cranberry Grape",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Trung bình",
     "classification_reasoning": "Hỗn hợp nước ép trái cây, có thêm đường và siro ngô giàu fructose, chất tạo ngọt nhân tạo (Sucralose)."
@@ -4965,7 +4965,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_pineapple_orange_100vitc_750x750_v1.jpg",
     "product_name": "Pineapple Orange",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép dứa, cam và táo, bổ sung Vitamin C và E."
@@ -5018,7 +5018,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_peach%20mango_100vitc_750x750_v1.jpg",
     "product_name": "Peach Mango",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Thành phần chính là hỗn hợp nước ép trái cây."
@@ -5063,7 +5063,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_orange_100vitc_750x750_v1.jpg",
     "product_name": "Original Orange Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Mô tả sản phẩm là nước cam 100%."
@@ -5115,7 +5115,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minute_maid_prod_tropical_blend_100vitc_750x750_v1.jpg",
     "product_name": "Tropical Blend",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Thành phần chính là hỗn hợp nước ép trái cây nhiệt đới."
@@ -5165,7 +5165,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/variety-juices-and-more/en_minutemaid_prod_cranberrycocktail5ozcan_750x750_v1.jpg",
     "product_name": "Cranberry Cocktail",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Được làm từ hỗn hợp nước ép quả việt quất, táo và nho."
@@ -5220,7 +5220,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/zero/MO_MM-ZS_MangoPassion_52oz.png",
     "product_name": "Zero Sugar Mango Passion",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Mặc dù không đường, nhưng thành phần chính vẫn là hỗn hợp nước ép trái cây."
@@ -5274,7 +5274,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/zero/MO_MM-ZS_PinkLemonade_52oz.png",
     "product_name": "Zero Sugar Pink Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Mặc dù không đường, nhưng thành phần chính vẫn là nước ép chanh và nho."
@@ -5328,7 +5328,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/zero/DT_MM-ZS_FruitPunch_52oz.png",
     "product_name": "Zero Sugar Fruit Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Mặc dù không đường, nhưng thành phần chính vẫn là hỗn hợp nước ép trái cây."
@@ -5382,7 +5382,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/zero/minute-maid-zero-sugar-lemonade-52oz.jpg",
     "product_name": "Zero Sugar Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Mặc dù không đường, nhưng thành phần chính vẫn là nước chanh."
@@ -5435,7 +5435,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/zero/MM-ZS_Pineapple_52oz.png",
     "product_name": "Zero Sugar Pineapple",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Mặc dù không đường, nhưng thành phần chính vẫn là hỗn hợp nước ép dứa và các loại trái cây khác."
@@ -5542,7 +5542,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Fruit%20Punch_59oz_DT.png",
     "product_name": "Fruit Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa hỗn hợp nước ép trái cây."
@@ -5600,7 +5600,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Lemonade_59oz_DT.png",
     "product_name": "Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước cốt chanh và các thành phần tự nhiên khác."
@@ -5652,7 +5652,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Tropical%20Punch_59oz_DT.png",
     "product_name": "Tropical Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa hỗn hợp nước ép trái cây nhiệt đới."
@@ -5703,7 +5703,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/minute-maid-berry-punch-59floz.png",
     "product_name": "Berry Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa hỗn hợp nước ép trái cây mọng."
@@ -5757,7 +5757,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Strawberry%20Lemonad_59oz_DT.png",
     "product_name": "Strawberry Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép chanh và dâu tây thật."
@@ -5808,7 +5808,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid_%20Peach%20Punch_59oz_MO.png",
     "product_name": "Peach Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép đào và táo, mặc dù được mô tả là 'Peach Flavored Juice Drink'."
@@ -5860,7 +5860,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Mango%20Punch_59oz_DT.png",
     "product_name": "Mango Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép xoài và các loại trái cây khác."
@@ -5913,7 +5913,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid_%20Watermelon_59oz_DT.png",
     "product_name": "Watermelon",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép dưa hấu và các loại trái cây khác."
@@ -5969,7 +5969,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid%20Pink%20Lemonad_59oz_MO.png",
     "product_name": "Pink Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép chanh và nho."
@@ -6020,7 +6020,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/Minute%20Maid_%20Strawberry%20Kiwi_59oz_DT.png",
     "product_name": "Strawberry Kiwi",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép dâu tây và kiwi."
@@ -6075,7 +6075,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/en_minute-maid_prod_lemonades-fruit-drinks-kiwi-strawberry-20oz_750x750_v1.jpg",
     "product_name": "Kiwi Strawberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Là hỗn hợp nước ép trái cây kiwi và dâu tây, mặc dù có thêm đường và chất bảo quản."
@@ -6129,7 +6129,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/lemonades-and-fruit-drinks/optimizations/MM_Blue-Raspberry_20oz_Bottle_DT.png",
     "product_name": "Blue Raspberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép quả mâm xôi và các thành phần hương vị khác."
@@ -6178,7 +6178,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/orange-juice/en_minute-maid_prod_orange-juice-original-low-pulp-59oz_750x750_v1.jpg",
     "product_name": "Premium Original Orange Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép cam nguyên chất."
@@ -6226,7 +6226,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/orange-juice/en_minute%20maid_prod_orange%20juice-pulp-free-59oz_750x750_v1.jpg",
     "product_name": "Pulp Free Orange Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép cam nguyên chất không có cùi."
@@ -6276,7 +6276,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/orange-juice/en_minute%20maid_prod_orange-juice-original-calcium-59oz_750x750_v1.jpg",
     "product_name": "Orange Juice With Calcium And Vitamin D",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép cam nguyên chất bổ sung canxi và vitamin D."
@@ -6326,7 +6326,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/orange-juice/en_minutemaid_prod_orangejuicekids59oz_750x750_v1.jpg",
     "product_name": "Kids+ Orange Juice",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "100% nước ép cam nguyên chất bổ sung canxi và các vitamin khác."
@@ -6593,7 +6593,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/wwe-limited-edition-drinks/update-v2/packshot-wwe-mm-lemonade.png",
     "product_name": "Lemonade",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước cốt chanh và các thành phần tự nhiên khác."
@@ -6644,7 +6644,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/wwe-limited-edition-drinks/packshot-wwe-mm-lemonade-zero-sugar-new.png",
     "product_name": "Lemonade Zero Sugar",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước cốt chanh và chất tạo ngọt nhân tạo, không đường."
@@ -6693,7 +6693,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/wwe-limited-edition-drinks/packshot-wwe-mm-fruit-punch-new.png",
     "product_name": "Fruit Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa hỗn hợp nước ép trái cây."
@@ -6741,7 +6741,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/wwe-limited-edition-drinks/packshot-wwe-mm-berry-punch-new.png",
     "product_name": "Berry Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa hỗn hợp nước ép trái cây mọng."
@@ -6792,7 +6792,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/wwe-limited-edition-drinks/update-v2/packshot-wwe-mm-blue-raspberry.png",
     "product_name": "Blue Raspberry",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép quả mâm xôi và các thành phần hương vị khác."
@@ -6841,7 +6841,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/wwe-limited-edition-drinks/update-v2/packshot-wwe-mm-tropical-punch.png",
     "product_name": "Tropical Punch",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa hỗn hợp nước ép trái cây nhiệt đới."
@@ -7108,7 +7108,7 @@
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fuze/products/fuze-blueberry-lemonade-pdp-img.jpg",
     "product_name": "Blueberry + Lemonade*",
     "country": "us",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa trà và hương vị quả việt quất, nước chanh."
@@ -8578,7 +8578,7 @@
     "classification_reasoning": "Mô tả là nước ngọt có ga với hương vị trái cây."
   },
   {
-    "product_name": "Hương Cam",
+    "product_name": "Nutriboost Hương Cam",
     "description": "Nutriboost là thức uống dinh dưỡng kết hợp sữa và nước trái cây thơm ngon, giúp bạn luôn tràn năng lượng cho một ngày làm việc hiệu quả.",
     "available_sizes": [
       "chai nhựa 180ml",
@@ -8629,13 +8629,13 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/product-1100x1100-orange.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Thành phần chứa hỗn hợp sữa, nước ép táo và hương cam, mô tả là thức uống dinh dưỡng kết hợp sữa và nước trái cây."
   },
   {
-    "product_name": "Hương Dâu",
+    "product_name": "Nutriboost Hương Dâu",
     "description": "Nutriboost là thức uống dinh dưỡng kết hợp sữa và nước trái cây thơm ngon, giúp bạn luôn tràn năng lượng cho một ngày làm việc hiệu quả.",
     "available_sizes": [
       "chai nhựa 180ml",
@@ -8685,13 +8685,13 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/product-1100x1100-strawberry.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa hỗn hợp sữa và nước ép trái cây."
   },
   {
-    "product_name": "Bánh Quy Kem",
+    "product_name": "Nutriboost Bánh Quy Kem",
     "description": "Nutriboost với hương bánh quy thơm ngon cùng vị kem tuyệt đỉnh, Một sự kết hợp “thật bất ngờ” cho vị mới siêu mlem.",
     "available_sizes": [],
     "nutrition_facts": {
@@ -8737,7 +8737,7 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/product-1100x1100-cookies.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa sữa, nước ép trái cây và hương liệu bánh quy kem."
@@ -8788,13 +8788,13 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/updated/nutriboost-orange.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa sữa chua, nước ép táo và hương cam."
   },
   {
-    "product_name": "Hương vị kiểu Hy Lạp/Hương việt quất",
+    "product_name": "Nutriboost Hương việt quất",
     "description": "Thơm ngon với hương việt quất tươi mát hòa quyện với sữa chua hương vị kiểu Hy Lạp sánh mịn.",
     "available_sizes": [],
     "nutrition_facts": {
@@ -8839,7 +8839,7 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/updated/nutriboost-blueberry.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa sữa chua, nước ép táo và hương việt quất."
@@ -8893,7 +8893,7 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/minute-maid/product-1100x1100-splash.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước cam ép hoàn nguyên."
@@ -8949,7 +8949,7 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/minute-maid/product-1100x1100-teppy.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Nước trái cây",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Nước cam ép hoàn nguyên với tép cam."
@@ -9241,7 +9241,7 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fuze-tea/vn-fuzetea-peach.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Trà",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép đào, trà và hạt chia, là đồ uống trà pha chế."
@@ -9292,7 +9292,7 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fuze-tea/vn-fuzetea-passion.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Trà",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa nước ép chanh dây, trà và hạt chia, là đồ uống trà pha chế."
@@ -9342,7 +9342,7 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fuze-tea/vn-fuzetea-lemon.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Trà",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa trà, chanh và sả, là đồ uống trà pha chế."
@@ -9392,7 +9392,7 @@
     ],
     "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fuze-tea/vn-fuzetea-wintermelon.png",
     "country": "vn",
-    "product_type": "Nước trái cây / trà",
+    "product_type": "Trà",
     "product_type_description": "Nước ép hoa quả, trà đóng chai, nước có vị tự nhiên",
     "classification_confidence": "Cao",
     "classification_reasoning": "Chứa bí đao và la hán quả, là đồ uống trà pha chế."
