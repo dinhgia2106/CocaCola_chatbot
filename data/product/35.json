@@ -1,0 +1,102 @@
+[
+    {
+      "product_name": "Minute Maid Splash",
+      "description": "Nước cam ép Minute Maid Splash",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 41,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 59 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "10 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "8 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "đường mía",
+        "đường HFCS",
+        "nước cam ép hoàn nguyên (15,4%)",
+        "calcium lactate pentahydrate",
+        "chất điều chỉnh độ acid (330, 331(iii))",
+        "chất ổn định (440)",
+        "muối ăn",
+        "vitamin C",
+        "hương liệu tổng hợp",
+        "chất tạo ngọt tổng hợp (955, 950)",
+        "màu tự nhiên (160a(ii))",
+        "vitamin E"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/minute-maid/product-1100x1100-splash.png"
+    },
+    {
+      "product_name": "Minute Maid Teppy",
+      "description": "Minute Maid tin rằng trái cây tươi/sạch làm nên nước trái cây tươi ngon bổ dưỡng. Nước cam có tép Minute Maid Teppy đem đến cho bạn sự trải nghiệm tuyệt vời với những tép cam thật trong từng ngụm sản phẩm, với Vitamin C, Vitamin E và canxi, bổ sung nguồn dinh dưỡng mỗi ngày.",
+      "available_sizes": [
+        "chai nhựa 327ml",
+        "1L"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 38,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 34 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "9,4 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "8,3 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "nước",
+        "đường mía",
+        "đường HFCS",
+        "nước cam ép hoàn nguyên & tép cam (10.9%)",
+        "calcium lactate pentahydrate",
+        "hương liệu tự nhiên & tổng hợp",
+        "chất điều chỉnh độ acid (330, 331(iii))",
+        "chất ổn định (466)",
+        "vitamin C",
+        "màu tự nhiên (160a(ii))",
+        "chất tạo ngọt tổng hợp (955, 950)",
+        "vitamin E"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/minute-maid/product-1100x1100-teppy.png"
+    }
+  ]

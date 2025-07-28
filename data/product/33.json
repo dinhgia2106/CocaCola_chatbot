@@ -1,0 +1,199 @@
+[
+    {
+      "product_name": "Fanta hương Cam",
+      "description": "Nước ngọt có gas Fanta, với hương vị trái cây đậm đà và đầy màu sắc, giúp bạn cảm thấy sống động và tận hưởng tối đa những khoảnh khắc vui vẻ khi kết nối với bạn bè.",
+      "available_sizes": [
+        "Chai 300ml",
+        "Chai 390ml",
+        "Chai 600ml",
+        "Chai 1.5L",
+        "Lon 235ml",
+        "Lon 320ml"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 19,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 23 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,6 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước bão hòa CO₂",
+        "đường mía",
+        "đường HFCS",
+        "chất điều chỉnh độ acid (330)",
+        "hương liệu tự nhiên & tổng hợp (hương cam)",
+        "chất tạo ngọt tổng hợp (955, 950)",
+        "chất bảo quản (211)",
+        "màu tổng hợp (110, 129)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fanta/vn-fanta-hu-orange.png"
+    },
+    {
+      "product_name": "Fanta hương Soda kem",
+      "description": "Nước ngọt có gas Fanta, với hương vị trái cây đậm đà và đầy màu sắc, giúp bạn cảm thấy sống động và tận hưởng tối đa những khoảnh khắc vui vẻ khi kết nối với bạn bè.",
+      "available_sizes": [
+        "Lon 320ml",
+        "Chai 300ml",
+        "Chai 600ml",
+        "Chai 1,5 l"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 19,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 23 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,6 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước bão hòa CO₂",
+        "đường HFCS",
+        "đường mía",
+        "hương liệu tự nhiên & giống tự nhiên (hương soda kem trái cây)",
+        "chất điều chỉnh độ acid (330)",
+        "chất tạo ngọt tổng hợp (955, 950)",
+        "chất bảo quản (211)",
+        "màu tổng hợp (102, 133)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fanta/vn-fanta-hu-soda-kem.png"
+    },
+    {
+      "product_name": "Fanta hương Xá xị",
+      "description": "Nước ngọt có gas Fanta, với hương vị trái cây đậm đà và đầy màu sắc, giúp bạn cảm thấy sống động và tận hưởng tối đa những khoảnh khắc vui vẻ khi kết nối với bạn bè.",
+      "available_sizes": [
+        "Lon 320ml",
+        "Chai 300ml",
+        "Chai 390ml",
+        "Chai 1,5 l"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 18.6,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 23 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,6 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước bão hòa CO₂",
+        "đường HFCS",
+        "hương liệu tự nhiên và tổng hợp (hương xá xị)",
+        "màu tự nhiên (150d)",
+        "chất điều chỉnh độ acid (330, 331(iii))",
+        "chất tạo ngọt tổng hợp (955, 950)",
+        "chất bảo quản (202)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fanta/vn-fanta-sarsi.png"
+    },
+    {
+      "product_name": "Fanta Hương nho",
+      "description": "Nước ngọt có gas Fanta, với hương vị trái cây đậm đà và đầy màu sắc, giúp bạn cảm thấy sống động và tận hưởng tối đa những khoảnh khắc vui vẻ khi kết nối với bạn bè.",
+      "available_sizes": [
+        "Lon 320ml",
+        "Chai 300ml",
+        "Chai 1,5 l"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 19,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 32 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,6 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "nước bão hòa CO₂",
+        "đường mía",
+        "đường HFCS",
+        "chất điều chỉnh độ acid (330, 331(iii), 452(i))",
+        "hương liệu tự nhiên và tổng hợp (hương nho)",
+        "chất tạo ngọt tổng hợp (955, 950)",
+        "chất bảo quản (211)",
+        "màu tổng hợp (129, 133)",
+        "hỗn hợp vitamin (B3, B5, B6)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fanta/vn-fanta-hu-grapes.png"
+    }
+  ]

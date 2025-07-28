@@ -1,0 +1,126 @@
+[
+    {
+      "product_name": "Schweppes Tonic",
+      "description": "",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 20.1,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 23 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,6 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước bão hòa CO2",
+        "đường mía",
+        "chất điều chỉnh độ acid (330)",
+        "hương tonic tự nhiên",
+        "chất bảo quản (211)",
+        "chất tạo ngọt tổng hợp (sucralose, acesulfame potassium)",
+        "quinine hydrochloride (82,5 mg/l)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/schweppes/vn-schweppes-tonic.png"
+    },
+    {
+      "product_name": "Schweppes Ginger Ale",
+      "description": "",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 19.1,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 28 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,6 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước bão hoà CO2",
+        "đường mía",
+        "chất điều chỉnh độ acid (330, 331(iii))",
+        "hương liệu tự nhiên (hương gừng)",
+        "chất bảo quản (211)",
+        "chất tạo ngọt tổng hợp (955, 950)",
+        "màu tự nhiên (150d)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/schweppes/vn-schweppes-ginger-ale.png"
+    },
+    {
+      "product_name": "Schweppes Soda Water",
+      "description": "",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 0,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 37 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "0 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước bão hòa CO2",
+        "chất điều chỉnh độ acid (500(ii))"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/schweppes/vn-schweppes-soda-water.png"
+    }
+  ]

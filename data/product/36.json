@@ -1,0 +1,83 @@
+[
+    {
+      "product_name": "Nước uống đóng chai Dasani",
+      "description": "Nước đóng chai Dasani tự hào mang đến hương vị tinh khiết trong từng giọt nước. Sản phẩm nước đóng chai Dasani được xây dựng trên nền tảng cung cấp nước sạch và thanh khiết một cách bền vững cùng môi trường. Dasani tự hào sẽ tiếp tục truyền thống đó trong tương lai.",
+      "available_sizes": [
+        "chai nhựa 350ml",
+        "500ml",
+        "1.5L"
+      ],
+      "nutrition_facts": {
+        "serving_size": "",
+        "servings_per_container": null,
+        "calories": null,
+        "total_fat": {
+          "value": null,
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": null,
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": null,
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": null,
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "100% nước."
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/dasani/prod-desktop.png"
+    },
+    {
+      "product_name": "Dasani Mineralized",
+      "description": "Dasani, nước uống bổ sung khoáng",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 0,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 26 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "0 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "magnesium sulfate",
+        "chat điều chỉnh độ acid (500 (ii))",
+        "calcium chloride"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/dasani/DASANI_Mineral%20PET500-EX.png"
+    }
+  ]

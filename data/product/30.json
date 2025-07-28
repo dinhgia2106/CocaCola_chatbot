@@ -1,0 +1,431 @@
+[
+    {
+      "product_name": "Aquarius",
+      "description": "More effective hydration than water. *Because it contains a moderate amount of sugar and sodium.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "Per 100ml",
+        "servings_per_container": null,
+        "calories": 18,
+        "total_fat": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "0.1g",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4.6g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "High Fructose Corn Syrup (domestic production)",
+        "Salt",
+        "Citric Acid",
+        "Flavoring",
+        "Sodium Citrate",
+        "Potassium Chloride",
+        "Magnesium Sulfate",
+        "Calcium Lactate",
+        "Antioxidant (Vitamin C)",
+        "Sweeteners (Sucralose, Acesulfame K)",
+        "Isoleucine",
+        "Valine",
+        "Leucine"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/jp/ja/brands/aquarius/products/product_aquarius_1a.png"
+    },
+    {
+      "product_name": "Aquarius (300g Handy Pack)",
+      "description": "More effective hydration than water. *Because it contains a moderate amount of sugar and sodium.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "Per 100g",
+        "servings_per_container": null,
+        "calories": 18,
+        "total_fat": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "0.1g",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4.4g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Sugar (domestic production)",
+        "Salt",
+        "Citric Acid",
+        "Flavoring",
+        "Sodium Citrate",
+        "Potassium Chloride",
+        "Magnesium Sulfate",
+        "Calcium Lactate",
+        "Antioxidant (Vitamin C)",
+        "Sweeteners (Sucralose, Acesulfame K)",
+        "Isoleucine",
+        "Valine",
+        "Leucine"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/jp/ja/brands/aquarius/products/product_aquarius_1e.png"
+    },
+    {
+      "product_name": "Aquarius Powder",
+      "description": "More effective hydration than water. *Because it contains a moderate amount of sugar and sodium.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "Per 1 bag (48g of powder)",
+        "servings_per_container": null,
+        "calories": 186,
+        "total_fat": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "1.0g",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "46g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0.5g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Sugars (Sugar (domestic production), Glucose)",
+        "Salt",
+        "Citric Acid",
+        "Sodium Citrate",
+        "Flavoring",
+        "Arginine",
+        "Potassium Chloride",
+        "Sweeteners (Acesulfame K, Sucralose)",
+        "Magnesium Sulfate",
+        "Calcium Lactate",
+        "Antioxidant (Vitamin C)",
+        "Isoleucine",
+        "Valine",
+        "Leucine"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/jp/ja/brands/aquarius/25-10-2023/new-img/product_aquarius_3.png"
+    },
+    {
+      "product_name": "Aquarius Oral Rehydration Solution (ORS)",
+      "description": "A government-approved food for special dietary use. An oral rehydration solution designed with a balanced combination of electrolytes and glucose. It is suitable for rehydration and maintenance for those with mild to moderate heatstroke or dehydration from excessive sweating. Please also use it for dehydration accompanying diarrhea and vomiting due to infectious gastroenteritis.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "Per 100ml",
+        "servings_per_container": null,
+        "calories": 11,
+        "total_fat": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "0.249g",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "2.7g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Sugars (Glucose (domestic production), Fructose)",
+        "Salt",
+        "Citric Acid",
+        "Potassium Chloride",
+        "Sodium Citrate",
+        "Flavoring",
+        "Sweetener (Sucralose)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/jp/ja/brands/aquarius/061124/product_aquarius_9.png"
+    },
+    {
+      "product_name": "Aquarius ZERO",
+      "description": "Easy-to-drink zero calories. Contains minerals* lost through sweat and metabolism-supporting carnitine. Supports you in all kinds of physical activities. *Minerals refer to sodium.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "Per 100ml",
+        "servings_per_container": null,
+        "calories": 0,
+        "total_fat": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "0.1g",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "0.7g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Fructose (produced in the USA or Turkey)",
+        "Salt",
+        "L-Carnitine L-Tartrate",
+        "Flavoring",
+        "Citric Acid",
+        "Sodium Citrate",
+        "Sweeteners (Acesulfame K, Sucralose)",
+        "Potassium Chloride",
+        "Magnesium Sulfate",
+        "Calcium Lactate",
+        "Antioxidant (Vitamin C)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/jp/ja/brands/aquarius/25-10-2023/product_aquarius_5.png"
+    },
+    {
+      "product_name": "Aquarius 1-Day's Worth of Multivitamins",
+      "description": "Hydration with vitamins*. Low calorie with a refreshing and delicious lemon flavor. *Vitamins refer to Vitamin C, Niacin, and Biotin.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "Per 1 bottle (500ml)",
+        "servings_per_container": null,
+        "calories": 92,
+        "total_fat": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "0.5g",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "23g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "High Fructose Corn Syrup (domestic production)",
+        "Salt",
+        "Lemon Peel Extract",
+        "V.C (Vitamin C)",
+        "Flavoring",
+        "Sodium Citrate",
+        "Citric Acid",
+        "Marigold Colorant",
+        "Potassium Chloride",
+        "Magnesium Sulfate",
+        "Calcium Lactate",
+        "Niacin",
+        "Sweetener (Sucralose)",
+        "Biotin"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/jp/ja/brands/aquarius/25-10-2023/new-img/product_aquarius_6a.png"
+    },
+    {
+      "product_name": "Aquarius 1-Day's Worth of Multivitamins Powder",
+      "description": "Hydration with vitamins*. Low calorie with a refreshing and delicious lemon flavor. *Vitamins refer to Vitamin C, Niacin, and Vitamin B6.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "Per 1 bag (51g)",
+        "servings_per_container": null,
+        "calories": 180,
+        "total_fat": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "1.47g",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "45g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Sugars (Sugar (domestic production), Glucose)",
+        "Salt",
+        "Vitamin C",
+        "Citric Acid",
+        "Sodium Citrate",
+        "Flavoring",
+        "Potassium Chloride",
+        "Calcium Lactate",
+        "Niacin",
+        "Sweetener (Acesulfame K)",
+        "Marigold Colorant",
+        "Vitamin B6"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/jp/ja/brands/aquarius/25-10-2023/new-img/product_aquarius_7.png"
+    },
+    {
+      "product_name": "Aquarius Sparkling",
+      "description": "The same hydration as Aquarius, now with a refreshing carbonation! Contains citric acid to support your summer energy!",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "Per 100ml",
+        "servings_per_container": null,
+        "calories": 19,
+        "total_fat": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "0.1g",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4.7g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "High Fructose Corn Syrup (domestic production)",
+        "Salt",
+        "Carbonation",
+        "Citric Acid",
+        "Flavoring",
+        "Sodium Citrate",
+        "Potassium Chloride",
+        "Magnesium Sulfate",
+        "Sweeteners (Acesulfame K, Sucralose)",
+        "Calcium Lactate",
+        "Antioxidant (Vitamin C)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/jp/ja/brands/aquarius/products/product_aquarius_10.png"
+    },
+    {
+      "product_name": "Aquarius NEWATER",
+      "description": "Zero sugar, zero calories. Absorbed faster than water. *Because it contains a moderate amount of amino acids* and sodium. *Alanine, Glycine.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "Per 100ml",
+        "servings_per_container": null,
+        "calories": 0,
+        "total_fat": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "0.1g",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "0g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Salt (domestic production)",
+        "Acidulant",
+        "Flavoring",
+        "Alanine",
+        "Glycine",
+        "Potassium Chloride",
+        "Magnesium Sulfate",
+        "Calcium Lactate",
+        "Sweeteners (Acesulfame K, Sucralose)",
+        "Antioxidant (Vitamin C)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/jp/ja/brands/aquarius/04-11-2024/product_aquarius_4.png"
+    }
+  ]

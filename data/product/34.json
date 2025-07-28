@@ -1,0 +1,244 @@
+[
+    {
+      "product_name": "Hương Cam",
+      "description": "Nutriboost là thức uống dinh dưỡng kết hợp sữa và nước trái cây thơm ngon, giúp bạn luôn tràn năng lượng cho một ngày làm việc hiệu quả.",
+      "available_sizes": [
+        "chai nhựa 180ml",
+        "chai nhựa 297ml",
+        "chai nhựa 1L"
+      ],
+      "nutrition_facts": {
+        "serving_size": "297 ml",
+        "servings_per_container": null,
+        "calories": 175,
+        "total_fat": {
+          "value": "1,87 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 208 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "37 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "32 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "1,57 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "hỗn hợp sữa hoàn nguyên 19% (nước, sữa bột nguyên kem và sữa bột tách béo)",
+        "đường",
+        "nước ép táo hoàn nguyên (10%)",
+        "bột kem thực vật",
+        "chất ổn định (466)",
+        "calcium lactate pentahydrate",
+        "chất điều chỉnh độ acid (330, 270, 331(iii))",
+        "hương liệu tổng hợp (cam, sữa)",
+        "mật ong (0.1%)",
+        "vitamin C",
+        "hỗn hợp (kẽm, vitamin B3, vitamin E)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/product-1100x1100-orange.png"
+    },
+    {
+      "product_name": "Hương Dâu",
+      "description": "Nutriboost là thức uống dinh dưỡng kết hợp sữa và nước trái cây thơm ngon, giúp bạn luôn tràn năng lượng cho một ngày làm việc hiệu quả.",
+      "available_sizes": [
+        "chai nhựa 180ml",
+        "chai nhựa 297ml",
+        "chai nhựa 1L"
+      ],
+      "nutrition_facts": {
+        "serving_size": "297 ml",
+        "servings_per_container": null,
+        "calories": 184,
+        "total_fat": {
+          "value": "2,41 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 208 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "38 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "32 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "1,60 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "hỗn hợp sữa hoàn nguyên 19% (nước, sữa bột nguyên kem và sữa bột tách béo)",
+        "đường",
+        "nước ép táo hoàn nguyên (10%)",
+        "bột kem thực vật",
+        "chất ổn định (466)",
+        "calcium lactate pentahydrate",
+        "chất điều chỉnh độ acid (330, 270, 331(iii))",
+        "hương liệu tự nhiên & tổng hợp (dâu, sữa, vani)",
+        "yến mạch (0.1%)",
+        "hỗn hợp (kẽm, vitamin B3, vitamin E)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/product-1100x1100-strawberry.png"
+    },
+    {
+      "product_name": "Bánh Quy Kem",
+      "description": "Nutriboost với hương bánh quy thơm ngon cùng vị kem tuyệt đỉnh, Một sự kết hợp “thật bất ngờ” cho vị mới siêu mlem.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "297 ml",
+        "servings_per_container": null,
+        "calories": 135,
+        "total_fat": {
+          "value": "1,36 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 211 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "29 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "25 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "1,56 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "sữa hoàn nguyên (19%) (nước, sữa bột nguyên kem, sữa bột tách béo)",
+        "nước ép táo hoàn nguyên (10%)",
+        "đường",
+        "chất ổn định (466)",
+        "calcium lactate pentahydrate",
+        "chất điều chỉnh độ acid (338, 331(iii))",
+        "hương liệu tổng hợp (hương bánh quy kem)",
+        "chất tạo ngọt tổng hợp (950, 955)",
+        "zinc gluconate",
+        "hỗn hợp vitamin (B3, E)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/product-1100x1100-cookies.png"
+    },
+    {
+      "product_name": "Hương vị kiểu Hy Lạp/Hương cam",
+      "description": "Thơm ngon với hương cam tươi mát hòa quyện với sữa chua hương vị kiểu Hy Lạp sánh mịn",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "170 ml",
+        "servings_per_container": null,
+        "calories": 91,
+        "total_fat": {
+          "value": "1,14 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 165 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "18 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "15 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "1,62 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "nước",
+        "đường",
+        "sữa chua hoàn nguyên (35%) (nước, sữa bột nguyên kem, sữa bột tách béo, sữa chua bột)",
+        "nước ép táo hoàn nguyên (10%)",
+        "chất ổn định (466, 415, 412)",
+        "chất điều chỉnh độ acid (330, 270, 331(iii))",
+        "calcium lactate pentahydrate",
+        "hương liệu tự nhiên và tổng hợp (cam, sữa chua kiểu Hy Lạp)",
+        "hỗn hợp (zinc gluconate, vitamin B3, vitamin E)",
+        "chất tạo ngọt tổng hợp (950, 955)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/updated/nutriboost-orange.png"
+    },
+    {
+      "product_name": "Hương vị kiểu Hy Lạp/Hương việt quất",
+      "description": "Thơm ngon với hương việt quất tươi mát hòa quyện với sữa chua hương vị kiểu Hy Lạp sánh mịn.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "170 ml",
+        "servings_per_container": null,
+        "calories": 91,
+        "total_fat": {
+          "value": "1,14 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 165 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "18 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "15 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "1,62 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "nước",
+        "đường",
+        "sữa chua hoàn nguyên (35%) (nước, sữa bột nguyên kem, sữa bột tách béo, sữa chua bột)",
+        "nước ép táo hoàn nguyên (10%)",
+        "chất ổn định (466, 415, 412)",
+        "chất điều chỉnh độ acid (330, 270, 331(iii))",
+        "calcium lactate pentahydrate",
+        "hương liệu tự nhiên & tổng hợp (việt quất, sữa chua kiểu Hy Lạp)",
+        "hỗn hợp (zinc gluconate, vitamin B3, vitamin E)",
+        "chất tạo ngọt tổng hợp (950, 955)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/nutriboost/img-resized/products/desktop/updated/nutriboost-blueberry.png"
+    }
+  ]

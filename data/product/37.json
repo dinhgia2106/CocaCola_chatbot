@@ -1,0 +1,94 @@
+[
+    {
+      "product_name": "Aquarius có gas",
+      "description": "Aquarius tin rằng bạn sẽ chơi và thể hiện hết mình khi cơ thể bạn được cung cấp đầy đủ nguồn nước và khoáng. Aquarius là thức uống với công thức tăng cường, bổ sung các chất điện giải và khoáng chất giúp bù nước bù khoáng cho cuộc sống năng động hơn.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 0,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≥ 40 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "8 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước bão hòa CO₂",
+        "đường mía",
+        "fructose",
+        "chất điều chỉnh độ acid (330, 331(iii))",
+        "sodium chloride",
+        "hương trái cây tự nhiên và tổng hợp",
+        "chất bảo quản (211, 202)",
+        "chất nhũ hóa (414)",
+        "chất tạo ngọt tổng hợp (acesulfame potassium, sucralose)",
+        "hỗn hợp vitamin (B3, B6, B5)",
+        "dipotassium phosphate"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/aquarius/vietnam-aquarius-sparkling-image-desktop.png"
+    },
+    {
+      "product_name": "Aquarius Không calo",
+      "description": "Aquarius tin rằng bạn sẽ chơi và thể hiện hết mình khi cơ thể bạn được cung cấp đầy đủ nguồn nước và khoáng. Aquarius là thức uống với công thức tăng cường, bổ sung các chất điện giải và khoáng chất giúp bù nước bù khoáng cho cuộc sống năng động hơn.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 0,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≥ 40 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "8 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "chất điều chỉnh độ acid (330, 331(iii))",
+        "hương trái cây giống tự nhiên và tổng hợp",
+        "sodium chloride",
+        "chất nhũ hóa (452(i))",
+        "chất bảo quản (202, 211, 385)",
+        "chất tạo ngọt tổng hợp (acesulfame potassium, sucralose)",
+        "hỗn hợp vitamin (B3, B6, B5)",
+        "dipotassium phosphate"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/home-image/aquarius/vietnam-aquarius-zero-image-desktop.png"
+    }
+  ]

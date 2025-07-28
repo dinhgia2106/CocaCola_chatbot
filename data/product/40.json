@@ -1,0 +1,100 @@
+[
+    {
+      "product_name": "Thums Up Charged Hương Dâu rừng",
+      "description": "Thums Up Charged là dòng thức uống có ga với 2 hương vị Kiwi và Dâu Rừng thơm ngon với hàm lượng caffeine cao giúp tỉnh táo, đồng thời bổ sung vitamin B3 và kẽm giúp hỗ trợ chuyển hóa năng lượng, giảm mệt mỏi.",
+      "available_sizes": [
+        "chai 330ml",
+        "lon 320ml"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 78,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 30 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "19 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "19 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước bão hòa CO2",
+        "đường",
+        "chất điều chỉnh độ acid (330, 331(iii), 452(i))",
+        "hương liệu tự nhiên và giống tự nhiên (hương Dâu rừng)",
+        "caffeine (300 mg/l)",
+        "chất bảo quản (211, 202)",
+        "zinc gluconate",
+        "màu tổng hợp (129)",
+        "vitamin B3",
+        "chất chống tạo bọt (900a)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/thums-up-charged/Thums-Up-Charged-Berry-One-Frame.png"
+    },
+    {
+      "product_name": "Thums Up Charged Hương Kiwi",
+      "description": "Thums Up Charged là dòng thức uống có ga với 2 hương vị Kiwi và Dâu Rừng thơm ngon với hàm lượng caffeine cao giúp tỉnh táo, đồng thời bổ sung vitamin B3 và kẽm giúp hỗ trợ chuyển hóa năng lượng, giảm mệt mỏi.",
+      "available_sizes": [
+        "chai 330ml",
+        "lon 320ml"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 78,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 30 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "19 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "19 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước bão hòa CO2",
+        "đường",
+        "chất điều chỉnh độ acid (330, 331(iii), 452(i))",
+        "hương liệu tự nhiên và giống tự nhiên (hương Dâu rừng)",
+        "caffeine (300 mg/l)",
+        "chất bảo quản (211, 202)",
+        "zinc gluconate",
+        "màu tổng hợp (129)",
+        "vitamin B3",
+        "chất chống tạo bọt (900a)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/thums-up-charged/Thums-Up-Charged-Kiwi-One-Frame.png"
+    }
+  ]

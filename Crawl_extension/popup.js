@@ -4,222 +4,232 @@ document.addEventListener('DOMContentLoaded', () => {
     const downloadBtn = document.getElementById('downloadBtn');
     const outputPre = document.getElementById('output');
     
-    let scrapedData = null; // Biến lưu trữ dữ liệu đã crawl
+    let scrapedData = null; 
+
+    // Đặt hàm scrapeProductData ở đây hoặc trong một tệp riêng biệt
+    // (Đặt ở ngoài vẫn hoạt động nhưng đây là thực hành tốt)
+    function scrapeProductData() {
+        // --- Ánh xạ các thuật ngữ (Mappings) ---
+        const NUTRITION_MAP = {
+            calories: ['NĂNG LƯỢNG'],
+            protein: ['CHẤT ĐẠM'],
+            total_fat: ['CHẤT BÉO'],
+            total_carbohydrate: ['CARBOHYDRATE', 'CHẤT BỘT ĐƯỜNG'],
+            sodium: ['NATRI'],
+            total_sugars: ['ĐƯỜNG'],
+        };
+    
+        const INGREDIENTS_HEADER_TEXT = ['Thành phần'];
+        const AVAILABLE_SIZES_TEXT = 'Có các loại bao bì:';
+    
+        // --- Các hàm trợ giúp ---
+        const getText = (element, selector) => {
+            const child = element.querySelector(selector);
+            return child ? child.innerText.trim() : "";
+        };
+    
+        const getFullUrl = (relativeUrl) => {
+            if (!relativeUrl) return "";
+            try {
+                if (relativeUrl.startsWith('http') || relativeUrl.startsWith('/')) {
+                    return new URL(relativeUrl, window.location.origin).href;
+                }
+                return relativeUrl;
+            } catch (e) {
+                console.error("Lỗi URL không hợp lệ:", e);
+                return "";
+            }
+        };
+    
+        // Hàm tìm một hàng dinh dưỡng, không phân biệt chữ hoa/thường
+        const getNutritionRow = (container, possibleNames) => {
+            const rows = container.querySelectorAll('.nutritional-information__row');
+            for (const row of rows) {
+                const labelEl = row.querySelector('.column1');
+                if (labelEl) {
+                    const labelText = labelEl.innerText.trim().toUpperCase();
+                    if (possibleNames.some(name => labelText.includes(name.toUpperCase()))) {
+                        return row;
+                    }
+                }
+            }
+            return null;
+        };
+    
+        // Hàm phân tích giá trị dinh dưỡng, xử lý ký tự '≤' và dấu phẩy thập phân
+        const parseNutritionValue = (row) => {
+            if (!row) return null;
+            const valEl = row.querySelector('.column3');
+            if (!valEl) return null;
+            const textValue = valEl.innerText.trim();
+            // Loại bỏ ký tự không phải số ở đầu (như ≤), thay thế dấu phẩy bằng dấu chấm
+            const cleanedValue = textValue.replace(/^[^0-9]+/, '').split(' ')[0].replace(',', '.').trim();
+            return cleanedValue || null;
+        };
+    
+    
+        const allProductsData = [];
+        const productElements = document.querySelectorAll('div.product-information');
+    
+        productElements.forEach(productEl => {
+            const contentContainer = productEl.querySelector('.product-information__content') || productEl;
+            if (!contentContainer) return;
+    
+            const productData = {
+                "product_name": "",
+                "description": "",
+                "available_sizes": [],
+                "nutrition_facts": {
+                    "serving_size": "",
+                    "servings_per_container": null,
+                    "calories": null,
+                    "total_fat": { "value": null, "daily_value": "" },
+                    "sodium": { "value": null, "daily_value": "" },
+                    "total_carbohydrate": { "value": null, "daily_value": "" },
+                    "total_sugars": { "value": null, "includes_added_sugars": { "value": null, "daily_value": "" } },
+                    "protein": { "value": null, "daily_value": "" }
+                },
+                "ingredients": [],
+                "product_image_link": ""
+            };
+    
+            // --- Thông tin cơ bản, Mô tả và Kích thước ---
+            productData.product_name = getText(contentContainer, 'h3.cmp-title__text');
+            
+            const textElementsContainer = contentContainer.querySelector('.text:not(.footer__mobile-accordion)');
+            if (textElementsContainer) {
+                const allParagraphs = Array.from(textElementsContainer.querySelectorAll('p'));
+                const descriptionParts = [];
+    
+                allParagraphs.forEach(p => {
+                    const pText = p.innerText.trim();
+                    // Kiểm tra và trích xuất kích thước
+                    if (pText.includes(AVAILABLE_SIZES_TEXT)) {
+                        const sizesText = pText.replace(new RegExp(AVAILABLE_SIZES_TEXT, 'i'), '').trim();
+                        productData.available_sizes = sizesText.split(/,|,\s*|\n/).map(s => s.trim()).filter(Boolean);
+                    } else {
+                        // Nếu không phải là dòng kích thước, thêm vào mô tả
+                        descriptionParts.push(pText);
+                    }
+                });
+                productData.description = descriptionParts.join(' ').replace(/\s+/g, ' ');
+            }
+    
+            const imgEl = productEl.querySelector('img.cmp-image__image');
+            productData.product_image_link = imgEl ? getFullUrl(imgEl.getAttribute('src')) : '';
+            
+            // --- Dinh dưỡng & Thành phần ---
+            const nutritionContainer = productEl.querySelector('.nutritional-information');
+            if (nutritionContainer) {
+                const nf = productData.nutrition_facts;
+    
+                const servingSizeRow = getNutritionRow(nutritionContainer, ['GIÁ TRỊ DINH DƯỠNG TRONG']);
+                if (servingSizeRow) {
+                    nf.serving_size = servingSizeRow.querySelector('.column3')?.innerText.trim() || "";
+                }
+    
+                // Dùng parseFloat để xử lý số thập phân
+                nf.calories = parseFloat(parseNutritionValue(getNutritionRow(nutritionContainer, NUTRITION_MAP.calories))) || null;
+                nf.total_fat.value = parseNutritionValue(getNutritionRow(nutritionContainer, NUTRITION_MAP.total_fat));
+                nf.sodium.value = parseNutritionValue(getNutritionRow(nutritionContainer, NUTRITION_MAP.sodium));
+                nf.total_carbohydrate.value = parseNutritionValue(getNutritionRow(nutritionContainer, NUTRITION_MAP.total_carbohydrate));
+                nf.protein.value = parseNutritionValue(getNutritionRow(nutritionContainer, NUTRITION_MAP.protein));
+                nf.total_sugars.value = parseNutritionValue(getNutritionRow(nutritionContainer, NUTRITION_MAP.total_sugars));
+    
+                // Logic lấy thành phần đã được cải tiến
+                const ingredientsHeaderEl = Array.from(nutritionContainer.querySelectorAll('h3')).find(h => 
+                    INGREDIENTS_HEADER_TEXT.some(header => h.innerText.trim().includes(header))
+                );
+                if (ingredientsHeaderEl && ingredientsHeaderEl.nextElementSibling && ingredientsHeaderEl.nextElementSibling.tagName === 'P') {
+                    let ingredientsText = ingredientsHeaderEl.nextElementSibling.innerText.trim();
+                    ingredientsText = ingredientsText.replace(/\.$/, ''); // Xóa dấu chấm cuối dòng
+                    productData.ingredients = ingredientsText.split(/,|、|–/).map(i => i.trim()).filter(Boolean);
+                }
+            }
+            
+            if (productData.product_name) {
+                allProductsData.push(productData);
+            }
+        });
+    
+        return allProductsData;
+    }
 
     crawlBtn.addEventListener('click', async () => {
+        console.log("Crawl button clicked."); // LOG 1
         outputPre.textContent = 'Crawling...';
         downloadBtn.disabled = true;
         scrapedData = null;
 
-        const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+        try {
+            const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
+            console.log("Active tab found:", tab); // LOG 2
 
-        chrome.scripting.executeScript({
-            target: { tabId: tab.id },
-            function: scrapeProductData, // Hàm crawl đã được nâng cấp
-        }, (injectionResults) => {
-            if (chrome.runtime.lastError) {
-                outputPre.textContent = 'Error: ' + chrome.runtime.lastError.message;
+            if (!tab) {
+                outputPre.textContent = 'Error: Could not find active tab.';
+                console.error("No active tab found.");
                 return;
             }
-            if (injectionResults && injectionResults[0] && injectionResults[0].result) {
-                scrapedData = injectionResults[0].result;
-                if (scrapedData.length === 0) {
-                     outputPre.textContent = 'No products found on this page with a recognizable structure.';
-                } else {
-                    outputPre.textContent = JSON.stringify(scrapedData, null, 2);
-                    downloadBtn.disabled = false; // Bật nút download khi có dữ liệu
-                }
-            } else {
-                outputPre.textContent = 'Could not retrieve data. Make sure you are on a valid product page.';
+
+            // Kiểm tra xem tab có URL hợp lệ không
+            if (tab.url.startsWith('chrome://')) {
+                 outputPre.textContent = 'Cannot run on internal Chrome pages.';
+                 console.error("Attempting to run on a chrome:// page.");
+                 return;
             }
-        });
+
+            console.log("Executing script on tab ID:", tab.id); // LOG 3
+            chrome.scripting.executeScript({
+                target: { tabId: tab.id },
+                function: scrapeProductData, 
+            }, (injectionResults) => {
+                console.log("executeScript callback fired."); // LOG 4
+                
+                // lastError thường là nơi báo lỗi quyền
+                if (chrome.runtime.lastError) {
+                    outputPre.textContent = 'Error: ' + chrome.runtime.lastError.message;
+                    console.error("Chrome runtime error:", chrome.runtime.lastError); // LOG 5
+                    return;
+                }
+
+                console.log("Injection results:", injectionResults); // LOG 6
+                if (injectionResults && injectionResults[0] && injectionResults[0].result) {
+                    scrapedData = injectionResults[0].result;
+                    if (scrapedData.length === 0) {
+                         outputPre.textContent = 'No products found on this page with a recognizable structure.';
+                    } else {
+                        outputPre.textContent = JSON.stringify(scrapedData, null, 2);
+                        downloadBtn.disabled = false;
+                    }
+                } else {
+                    outputPre.textContent = 'Could not retrieve data. Ensure you are on a valid product page and the extension has permissions.';
+                }
+            });
+
+        } catch (error) {
+            outputPre.textContent = 'An unexpected error occurred: ' + error.message;
+            console.error("Error in crawlBtn click listener:", error);
+        }
     });
 
     downloadBtn.addEventListener('click', () => {
         if (!scrapedData) {
-            alert('No data to download. Please crawl first.');
+            outputPre.textContent = 'No data to download. Please crawl a page first.';
             return;
         }
 
         const dataStr = JSON.stringify(scrapedData, null, 2);
-        const blob = new Blob([dataStr], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'coca-cola-products.json';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
+        const dataBlob = new Blob([dataStr], { type: 'application/json' });
+        const url = URL.createObjectURL(dataBlob);
+        
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = 'coca-cola-products.json';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
         URL.revokeObjectURL(url);
+        
+        outputPre.textContent = 'Download completed!';
     });
 });
-
-
-function scrapeProductData() {
-    // --- Multi-language Mappings ---
-    const NUTRITION_MAP = {
-        calories: ['エネルギー', 'Calories'],
-        protein: ['たんぱく質', 'Protein'],
-        total_fat: ['脂質', 'Total Fat'],
-        total_carbohydrate: ['炭水化物', 'Total Carbohydrate'],
-        sodium: ['食塩相当量', 'Sodium'], //食塩相当量 = salt equivalent
-        total_sugars: ['Total Sugars'],
-        includes_added_sugars: ['Includes Added Sugars'],
-    };
-
-    const INGREDIENTS_HEADER_TEXT = ['原材料名', 'Ingredients'];
-
-    // --- Helper Functions ---
-    const getText = (element, selector) => {
-        const child = element.querySelector(selector);
-        return child ? child.innerText.trim() : "";
-    };
-
-    const getFullUrl = (relativeUrl) => {
-        if (!relativeUrl) return "";
-        try {
-            return new URL(relativeUrl, window.location.origin).href;
-        } catch (e) { return ""; }
-    };
-    
-    // Hàm tìm một hàng dinh dưỡng dựa trên danh sách các tên có thể có
-    const getNutritionRow = (container, possibleNames) => {
-        const rows = container.querySelectorAll('.nutritional-information__row');
-        for (const row of rows) {
-            const labelEl = row.querySelector('.column1');
-            if (labelEl) {
-                const labelText = labelEl.innerText.trim();
-                if (possibleNames.some(name => labelText.includes(name))) {
-                    return row;
-                }
-            }
-        }
-        return null;
-    };
-    
-    const parseNutritionValue = (row) => {
-        if (!row) return null;
-        const valEl = row.querySelector('.column2, .column3');
-        if (!valEl) return null;
-        return valEl.innerText.split('（')[0].trim();
-    };
-
-    const parseDailyValue = (row) => {
-        if (!row) return "";
-        const dvEl = row.querySelector('.column3');
-        return (dvEl && dvEl.innerText.includes('%')) ? dvEl.innerText.trim() : "";
-    };
-
-    const allProductsData = [];
-    const productElements = document.querySelectorAll('div.product-information');
-
-    productElements.forEach(productEl => {
-        const contentContainer = productEl.querySelector('.product-information__content');
-        if (!contentContainer) {
-            return;
-        }
-
-        const productData = {
-            "product_name": "", "description": "", "available_sizes": [],
-            "nutrition_facts": {
-                "serving_size": "", "servings_per_container": null, "calories": null,
-                "total_fat": { "value": null, "daily_value": "" },
-                "sodium": { "value": null, "daily_value": "" },
-                "total_carbohydrate": { "value": null, "daily_value": "" },
-                "total_sugars": { "value": null, "includes_added_sugars": { "value": null, "daily_value": "" } },
-                "protein": { "value": null, "daily_value": "" }
-            },
-            "ingredients": [], "product_image_link": ""
-        };
-
-        // --- Basic Info ---
-        productData.product_name = getText(contentContainer, 'h3.cmp-title__text');
-        const descriptionEl = contentContainer.querySelector('.cmp-text');
-        if (descriptionEl) {
-            // Gom tất cả text trong các thẻ p, thay thế <br> bằng khoảng trắng
-            let tempDiv = document.createElement('div');
-            tempDiv.innerHTML = descriptionEl.innerHTML.replace(/<br\s*\/?>/gi, ' ');
-            productData.description = tempDiv.innerText.trim().replace(/\s+/g, ' ');
-        }
-        
-        const sizesEl = Array.from(contentContainer.querySelectorAll('.cmp-text p b')).find(b => b.innerText.toLowerCase().includes('available sizes'));
-        if (sizesEl) {
-            const sizesText = sizesEl.parentElement.innerText.replace(/Available Sizes:/i, '').trim();
-            productData.available_sizes = sizesText.split(',').map(s => s.trim()).filter(Boolean);
-        }
-
-        const imgEl = productEl.querySelector('.adaptiveImage img.cmp-image__image');
-        productData.product_image_link = imgEl ? getFullUrl(imgEl.getAttribute('src')) : '';
-        
-        // --- Nutrition & Ingredients (REVISED LOGIC) ---
-        const nutritionContainer = productEl.querySelector('.nutritional-information');
-        if (nutritionContainer) {
-            const nf = productData.nutrition_facts;
-
-            // Lấy Serving Size
-            const allRows = nutritionContainer.querySelectorAll('.nutritional-information__row');
-            // Tìm hàng đầu tiên sau hàng header có chứa text đặc trưng của serving size
-            let servingSizeRowFound = false;
-            for (const row of allRows) {
-                const text = row.innerText.trim();
-                if (text.includes('当たり') || text.includes('per container') || text.includes('Serving Size')) {
-                    if (text.includes('当たり')) { // JP: 100ml当たり
-                        nf.serving_size = text;
-                    } else if (text.includes('Serving Size')) { // US: Serving Size ... 1 Bottle
-                        nf.serving_size = row.querySelector('.column3')?.innerText.trim() || text;
-                    } else if (text.includes('per container')) { // US: 1 serving per container
-                         const match = text.match(/(\d+)/);
-                         if(match) nf.servings_per_container = parseInt(match[1], 10);
-                    }
-                    servingSizeRowFound = true;
-                }
-            }
-
-            // Lấy các giá trị dinh dưỡng dựa trên map
-            nf.calories = parseInt(parseNutritionValue(getNutritionRow(nutritionContainer, NUTRITION_MAP.calories)), 10) || null;
-            
-            const fatRow = getNutritionRow(nutritionContainer, NUTRITION_MAP.total_fat);
-            if(fatRow) { nf.total_fat.value = parseNutritionValue(fatRow); nf.total_fat.daily_value = parseDailyValue(fatRow); }
-            
-            const sodiumRow = getNutritionRow(nutritionContainer, NUTRITION_MAP.sodium);
-            if(sodiumRow) { nf.sodium.value = parseNutritionValue(sodiumRow); nf.sodium.daily_value = parseDailyValue(sodiumRow); }
-            
-            const carbRow = getNutritionRow(nutritionContainer, NUTRITION_MAP.total_carbohydrate);
-            if(carbRow) { nf.total_carbohydrate.value = parseNutritionValue(carbRow); nf.total_carbohydrate.daily_value = parseDailyValue(carbRow); }
-
-            const proteinRow = getNutritionRow(nutritionContainer, NUTRITION_MAP.protein);
-            if(proteinRow) { nf.protein.value = parseNutritionValue(proteinRow); nf.protein.daily_value = parseDailyValue(proteinRow); }
-
-            // Chỉ lấy các trường này nếu tồn tại
-            const sugarRow = getNutritionRow(nutritionContainer, NUTRITION_MAP.total_sugars);
-            if(sugarRow) { nf.total_sugars.value = parseNutritionValue(sugarRow); }
-            
-            const addedSugarRow = getNutritionRow(nutritionContainer, NUTRITION_MAP.includes_added_sugars);
-            if(addedSugarRow) { nf.total_sugars.includes_added_sugars.value = parseNutritionValue(addedSugarRow); nf.total_sugars.includes_added_sugars.daily_value = parseDailyValue(addedSugarRow); }
-
-            // Lấy thành phần (Ingredients)
-            const ingredientsHeaderRow = getNutritionRow(nutritionContainer, INGREDIENTS_HEADER_TEXT);
-            if (ingredientsHeaderRow) {
-                const nextRow = ingredientsHeaderRow.nextElementSibling;
-                const ingredientsP = nextRow ? nextRow.querySelector('.column2 p, .column2') : null;
-
-                if (ingredientsP) {
-                    let ingredientsText = ingredientsP.innerText.split('\n')[0].trim();
-                    ingredientsText = ingredientsText.replace(/／/g, '、');
-                    productData.ingredients = ingredientsText.split(/,|、/).map(i => i.trim()).filter(Boolean);
-                }
-            } else { // Fallback cho trang US
-                 const ingredientsH3 = Array.from(nutritionContainer.querySelectorAll('h3')).find(h => INGREDIENTS_HEADER_TEXT.some(header => h.innerText.trim() === header));
-                 if (ingredientsH3 && ingredientsH3.nextElementSibling.tagName === 'P') {
-                     let ingredientsText = ingredientsH3.nextElementSibling.innerText.split('\n')[0].trim();
-                     productData.ingredients = ingredientsText.replace(/\.$/, '').split(',').map(i => i.trim()).filter(Boolean);
-                 }
-            }
-        }
-        
-        allProductsData.push(productData);
-    });
-
-    return allProductsData;
-}

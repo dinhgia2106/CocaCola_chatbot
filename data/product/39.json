@@ -1,0 +1,184 @@
+[
+    {
+      "product_name": "Trà đào và hạt chia",
+      "description": "Fuzetea+ Trà đào & Hạt chia chứa chất chống oxy hoá TPP-C, cho cuộc sống tươi trẻ mỗi ngày",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 20,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 34 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,2 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "đường mía",
+        "nước ép táo (1,83%)",
+        "hạt chia (0,22%)",
+        "nước ép đào (0,16%)",
+        "chất điều chỉnh độ acid (330, 331(iii))",
+        "bột trà (0,1%)",
+        "hương đào tự nhiên",
+        "vitamin C",
+        "chất tạo ngọt tổng hợp (sucralose, acesulfame potassium)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fuze-tea/vn-fuzetea-peach.png"
+    },
+    {
+      "product_name": "Trà chanh dây và hạt chia",
+      "description": "Fuzetea+ Trà chanh dây & Hạt chia chứa chất chống oxy hoá TPP-C, cho cuộc sống tươi trẻ mỗi ngày",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 20,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 34 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,2 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "đường mía",
+        "nước ép táo (1,83%)",
+        "hạt chia (0,22%)",
+        "nước ép chanh dây (0,12%)",
+        "chất điều chỉnh độ acid (330, 331(iii))",
+        "bột trà (0,1%)",
+        "vitamin C",
+        "hương chanh dây tổng hợp",
+        "chất tạo ngọt tổng hợp (sucralose, acesulfame potassium)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fuze-tea/vn-fuzetea-passion.png"
+    },
+    {
+      "product_name": "Trà chanh với sả",
+      "description": "Fuzetea+ Trà chanh với xả chứa chất chống oxy hoá TPP-C, cho cuộc sống tươi trẻ mỗi ngày",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 33,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 24 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "8 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "8 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "đường mía",
+        "chất điều chỉnh độ axit (330, 331(iii))",
+        "bột trà (0,14%)",
+        "hương chanh sả tự nhiên",
+        "vitamin C",
+        "chất tạo ngọt tổng hợp (955, 950)",
+        "bột sả (0,2 g/l)",
+        "nước cốt chanh dạng bột (5 mg/l)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fuze-tea/vn-fuzetea-lemon.png"
+    },
+    {
+      "product_name": "Trà bí đao la hán quả",
+      "description": "Fuzetea trà bí đao hoà quyện với la hán quả mang đến cảm giác tươi mát, nhẹ nhàng cùng vị ngọt thanh tự nhiên",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100ml",
+        "servings_per_container": null,
+        "calories": 18,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 23 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,4 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,4 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "đường mía",
+        "bột bí đao (0.12%)",
+        "màu tự nhiên (150d)",
+        "hỗn hợp hương tổng hợp",
+        "chất chống oxy hóa (301)",
+        "chất tạo ngọt tổng hợp (acesulfame potassium, sucralose)",
+        "chất điều chỉnh độ acid (338)",
+        "chiết xuất La hán quả (50 mg/l)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/fuze-tea/vn-fuzetea-wintermelon.png"
+    }
+  ]

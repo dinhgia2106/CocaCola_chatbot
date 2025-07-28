@@ -1,0 +1,140 @@
+[
+    {
+      "product_name": "Sprite hương chanh",
+      "description": "Hương vị cổ điển, mát lạnh của chanh tươi, hoàn toàn không chứa caffeine, với 100% hương chanh tự nhiên.",
+      "available_sizes": [
+        "chai nhựa 250ml",
+        "chai nhựa 320ml"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 19,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 32 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,6 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "đường mía",
+        "đường HFCS",
+        "chất điều chỉnh độ acid (330, 331(iii), 296, 329)",
+        "hương liệu tự nhiên (hương chanh)",
+        "chất tạo ngọt tổng hợp (952(iv), 955, 950)",
+        "chất bảo quản (211)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/sprite/vn-sprite-huong-chanh-can.png"
+    },
+    {
+      "product_name": "Sprite Hương Chanh chai nhựa 600ml",
+      "description": "Hương vị cổ điển, mát lạnh của chanh tươi, hoàn toàn không chứa caffeine, với 100% hương chanh tự nhiên.",
+      "available_sizes": [
+        "chai nhựa 390ml",
+        "chai nhựa 1.85L"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 19,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 32 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,6 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "đường mía",
+        "đường HFCS",
+        "chất điều chỉnh độ acid (330, 331(iii), 296, 329)",
+        "hương liệu tự nhiên (hương chanh)",
+        "chất tạo ngọt tổng hợp (952(iv), 955, 950)",
+        "chất bảo quản (211)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/sprite/vn-sprite-huong-chanh-chai-nhua-600ml.png"
+    },
+    {
+      "product_name": "Sprite Hương Chanh",
+      "description": "Hương vị cổ điển, mát lạnh của chanh tươi, hoàn toàn không chứa caffeine, với 100% hương chanh tự nhiên.",
+      "available_sizes": [
+        "chai nhựa 390ml",
+        "chai nhựa 1.85L"
+      ],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 19,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 32 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "4,6 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "4,6 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "đường mía",
+        "đường HFCS",
+        "chất điều chỉnh độ acid (330, 331(iii), 296, 329)",
+        "hương liệu tự nhiên (hương chanh)",
+        "chất tạo ngọt tổng hợp (952(iv), 955, 950)",
+        "chất bảo quản (211)"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/sprite/vn-sprite-huong-chanh.png"
+    }
+  ]

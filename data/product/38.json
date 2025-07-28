@@ -1,0 +1,45 @@
+[
+    {
+      "product_name": "Coffee Max Georgia",
+      "description": "từ 100% hạt cafe thượng hạng, mang lại năng lượng thức tỉnh",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100 ml",
+        "servings_per_container": null,
+        "calories": 48.5,
+        "total_fat": {
+          "value": "0,85 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 51 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "9 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "9 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0,9 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "Nước",
+        "đường",
+        "sữa bột nguyên kem (30 g/l)",
+        "bột cà phê (10,7 g/l)",
+        "chất tạo nhũ (E473, E407)",
+        "hương cà phê tổng hợp",
+        "chất điều chỉnh độ axit (E500(ii))"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/georgia-max-coffee/Georgia%20Max%20Coffee%20pack%20shot.jpg"
+    }
+  ]

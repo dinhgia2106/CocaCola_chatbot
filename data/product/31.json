@@ -1,0 +1,150 @@
+[
+    {
+      "product_name": "Coca‑Cola vị nguyên bản",
+      "description": "Thức uống có ga sảng khoái, với vị Cola đặc trưng và chút caffein; giúp bạn không chỉ cảm thấy thật sảng khoái mà còn làm những giây phút nghỉ ngơi, những bữa ăn thêm hứng khởi.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100ml",
+        "servings_per_container": null,
+        "calories": 42,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 23 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "10.5 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "10.5 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [
+        "NƯỚC BÃO HÒA CO₂",
+        "ĐƯỜNG HFCS",
+        "ĐƯỜNG MÍA",
+        "MÀU TỰ NHIÊN (150d)",
+        "CHẤT ĐIỀU CHỈNH ĐỘ ACID (338)",
+        "HƯƠNG LIỆU TỰ NHIÊN",
+        "CAFFEINE"
+      ],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/coca-cola/vn-coca-cola.png"
+    },
+    {
+      "product_name": "Coca‑Cola Zero Sugar",
+      "description": "Thức uống có ga sảng khoái, với vị Cola đặc trưng và chút caffein; giúp bạn không chỉ cảm thấy thật sảng khoái mà còn làm những giây phút nghỉ ngơi, những bữa ăn thêm hứng khởi. Cho bạn thêm lựa chọn với dòng sản phẩm không đường, không calorie.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100ml",
+        "servings_per_container": null,
+        "calories": 0,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 26 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "0 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/coca-cola/vn-coca-cola-zero.png"
+    },
+    {
+      "product_name": "Coca‑Cola Light",
+      "description": "Thức uống có ga sảng khoái, với vị Cola đặc trưng và chút caffein; giúp bạn không chỉ cảm thấy thật sảng khoái mà còn làm những giây phút nghỉ ngơi, những bữa ăn thêm hứng khởi. Cho bạn thêm lựa chọn với dòng sản phẩm không đường, không calorie.",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100ml",
+        "servings_per_container": null,
+        "calories": 0,
+        "total_fat": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 26 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "0 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": "0 g",
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": "0 g",
+          "daily_value": ""
+        }
+      },
+      "ingredients": [],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/coca-cola/vn-coca-cola-light.png"
+    },
+    {
+      "product_name": "Coca‑Cola Plus",
+      "description": "",
+      "available_sizes": [],
+      "nutrition_facts": {
+        "serving_size": "100ml",
+        "servings_per_container": null,
+        "calories": null,
+        "total_fat": {
+          "value": null,
+          "daily_value": ""
+        },
+        "sodium": {
+          "value": "≤ 28 mg",
+          "daily_value": ""
+        },
+        "total_carbohydrate": {
+          "value": "1.2 g",
+          "daily_value": ""
+        },
+        "total_sugars": {
+          "value": null,
+          "includes_added_sugars": {
+            "value": null,
+            "daily_value": ""
+          }
+        },
+        "protein": {
+          "value": null,
+          "daily_value": ""
+        }
+      },
+      "ingredients": [],
+      "product_image_link": "https://www.coca-cola.com/content/dam/onexp/vn/vi/brands/coca-cola/vn-coke-plus-fiber.png"
+    }
+  ]
