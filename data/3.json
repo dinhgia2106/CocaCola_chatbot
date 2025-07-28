@@ -1,0 +1,189 @@
+[
+  {
+    "available_sizes": [
+      "7.5 fl oz",
+      "12 fl oz",
+      "16.9 fl oz",
+      "2 Liters"
+    ],
+    "description": "Barq’s has bite! Do you know why? Well, it’s unique Barq’s spice is what makes this root beer soda truly original and truly tasty, complete with a caffeine kick. Not to mention the full-bodied flavor that is so distinct and different it can only be Barq’s.",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CARAMEL COLOR",
+      "SODIUM BENZOATE (TO PROTECT TASTE)",
+      "CITRIC ACID",
+      "CAFFEINE",
+      "ARTIFICIAL AND NATURAL FLAVORS",
+      "ACACIA"
+    ],
+    "nutrition_facts": {
+      "calories": 180,
+      "protein": {
+        "daily_value": "-",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (355 mL)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "65mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "16%",
+        "value": "44g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "89%",
+          "value": "0g"
+        },
+        "value": "44g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/barqs/en_barqs_prod_root-beer_750x750_v1.jpg",
+    "product_name": "Root Beer"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "16.9 fl oz",
+      "20 fl oz",
+      "2 Liters"
+    ],
+    "description": "Enjoy Barq’s Zero Sugar Root Beer by itself or with your favorite meal. With the same great taste and bite of regular Barq’s, our Zero Sugar Root Beer can help you keep the calories down and is caffeine free.",
+    "ingredients": [
+      "CARBONATED WATER",
+      "CARAMEL COLOR",
+      "POTASSIUM SORBATE AND SODIUM BENZOATE (TO PROTECT TASTE)",
+      "ASPARTAME",
+      "CITRIC ACID",
+      "ACESULFAME POTASSIUM",
+      "ARTIFICIAL AND NATURAL FLAVORS",
+      "ACACIA",
+      "POTASSIUM CHLORIDE"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "-",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (355 mL)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "50mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "0%",
+          "value": "0g"
+        },
+        "value": "0g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/barqs/en_barqs_prod_zero-sugar_750x750_v1.jpg",
+    "product_name": "Zero Sugar Root Beer"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "Barq's Red Creme Soda is one part creme soda, one part red deliciousness – plus, we know that it has that \"hard to get\" quality. So, if you're lucky enough to spot it, call friends, stock up, and enjoy!",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "SODIUM BENZOATE (TO PROTECT TASTE)",
+      "CITRIC ACID",
+      "NATURAL AND ARTIFICIAL FLAVORS",
+      "RED 40"
+    ],
+    "nutrition_facts": {
+      "calories": 170,
+      "protein": {
+        "daily_value": "-",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (355 mL)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "65mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "16%",
+        "value": "43g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "85%",
+          "value": "43g"
+        },
+        "value": "43g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/barqs/en_barqs_prod_red-creme-soda_750x750_v1.jpg",
+    "product_name": "Red Creme Soda"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz"
+    ],
+    "description": "Barq's Creme Soda French Vanilla has a sweet, creamy flavor with a vanilla twist. This creme soda is truly original and tasty. Not to mention the full-bodied flavor that is so distinct and different it can only truly be Barq's.",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "NATURAL AND ARTIFICIAL FLAVORS",
+      "SODIUM BENZOATE (TO PROTECT TASTE)",
+      "CARAMEL COLOR",
+      "CITRIC ACID"
+    ],
+    "nutrition_facts": {
+      "calories": 160,
+      "protein": {
+        "daily_value": "-",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (355 mL)",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "65mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "16%",
+        "value": "45g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "89%",
+          "value": "45g"
+        },
+        "value": "45g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/barqs/en_barqs_prod_french-vanilla_750x750_v1.jpg",
+    "product_name": "Creme Soda French Vanilla"
+  }
+]

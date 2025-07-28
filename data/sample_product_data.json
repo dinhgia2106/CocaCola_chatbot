@@ -1,0 +1,36 @@
+{
+    "product_name": "",
+    "description": "",
+    "available_sizes": [],
+    "nutrition_facts": {
+      "serving_size": "",
+      "servings_per_container": null,
+      "calories": null,
+      "total_fat": {
+        "value": null,
+        "daily_value": ""
+      },
+      "sodium": {
+        "value": null,
+        "daily_value": ""
+      },
+      "total_carbohydrate": {
+        "value": null,
+        "daily_value": ""
+      },
+      "total_sugars": {
+        "value": null,
+        "includes_added_sugars": {
+          "value": null,
+          "daily_value": ""
+        }
+      },
+      "protein": {
+        "value": null,
+        "daily_value": ""
+      }
+    },
+    "ingredients": [],
+    "product_image_link": "",
+    "country": "vi"
+  }

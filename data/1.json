@@ -1,0 +1,142 @@
+[
+  {
+    "available_sizes": [
+      "7.5 fl oz",
+      "8 fl oz",
+      "12 fl oz",
+      "16 fl oz",
+      "16.9 fl oz",
+      "20 fl oz",
+      "1.25 Liters",
+      "2 Liters"
+    ],
+    "description": "Enjoy the crisp and refreshing taste of Coca‑Cola Original.",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CARAMEL COLOR",
+      "PHOSPHORIC ACID",
+      "NATURAL FLAVORS",
+      "CAFFEINE"
+    ],
+    "nutrition_facts": {
+      "calories": 240,
+      "protein": {
+        "daily_value": "-",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (20 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "3%",
+        "value": "75mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "24%",
+        "value": "65%"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "130%",
+          "value": "65g"
+        },
+        "value": "65g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/coca-cola-original/en_coca-cola-original-taste-20-oz_750x750_v1.jpg",
+    "product_name": "Coca‑Cola® Original"
+  },
+  {
+    "available_sizes": [
+      "12 fl oz",
+      "2 Liters"
+    ],
+    "description": "Enjoy the crisp and refreshing taste of Coca‑Cola Original with no caffeine.",
+    "ingredients": [
+      "CARBONATED WATER",
+      "HIGH FRUCTOSE CORN SYRUP",
+      "CARAMEL COLOR",
+      "PHOSPHORIC ACID",
+      "NATURAL FLAVORS"
+    ],
+    "nutrition_facts": {
+      "calories": 140,
+      "protein": {
+        "daily_value": "-",
+        "value": "0g"
+      },
+      "serving_size": "1 Can (12 FL OZ)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "2%",
+        "value": "45mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "14%",
+        "value": "39%"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "78%",
+          "value": "39g"
+        },
+        "value": "39g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/coca-cola-original/en_coca-cola_prod_caffeine%20free_750x750_v1.jpg",
+    "product_name": "Coca‑Cola® Caffeine Free"
+  },
+  {
+    "available_sizes": [
+      "12 oz",
+      "16.9 oz"
+    ],
+    "description": "Single bottle of Coca‑Cola Original Taste—the refreshing, crisp taste you know and love",
+    "ingredients": [
+      "CARBONATED WATER",
+      "CANE SUGAR",
+      "CARAMEL COLOR",
+      "PHOSPHORIC ACID",
+      "NATURAL FLAVORS",
+      "CAFFEINE"
+    ],
+    "nutrition_facts": {
+      "calories": 150,
+      "protein": {
+        "daily_value": "-",
+        "value": "0g"
+      },
+      "serving_size": "1 Bottle (355 ml)",
+      "servings_per_container": 1,
+      "sodium": {
+        "daily_value": "4%",
+        "value": "85mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "14%",
+        "value": "39g"
+      },
+      "total_fat": {
+        "daily_value": "0%",
+        "value": "0g"
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "78%",
+          "value": "39g"
+        },
+        "value": "39g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/coca-cola-original/coke-de-mexico.png",
+    "product_name": "Coca‑Cola® Mexico"
+  }
+]

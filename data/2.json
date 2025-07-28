@@ -1,0 +1,119 @@
+[
+  {
+    "available_sizes": [],
+    "description": "",
+    "ingredients": [
+      "(UNPRESERVED): RECONSTITUTED APPLE JUICE CONCENTRATE",
+      "CARBON DIOXIDE"
+    ],
+    "nutrition_facts": {
+      "calories": 182,
+      "protein": {
+        "daily_value": "0g",
+        "value": null
+      },
+      "serving_size": "per 100 ml",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "0g",
+        "value": null
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "",
+          "value": null
+        },
+        "value": null
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/za/en/products/2.desktop.png",
+    "product_name": "Appletiser"
+  },
+  {
+    "available_sizes": [],
+    "description": "",
+    "ingredients": [
+      "(UNPRESERVED): RECONSTITUTED GRAPE JUICE CONCENTRATE",
+      "GRAPE SKIN EXTRACT",
+      "CITRIC ACID",
+      "CARBON DIOXIDE"
+    ],
+    "nutrition_facts": {
+      "calories": 221,
+      "protein": {
+        "daily_value": "0g",
+        "value": null
+      },
+      "serving_size": "per 100 ml",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "0g",
+        "value": null
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "",
+          "value": null
+        },
+        "value": null
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/za/home-images-south-africa/en/products/redappletiser.png",
+    "product_name": "Appletiser Red Grapetiser"
+  },
+  {
+    "available_sizes": [],
+    "description": "",
+    "ingredients": [
+      "(UNPRESERVED): RECONSTITUTED GRAPE JUICE CONCENTRATE",
+      "CITRIC ACID",
+      "CARBON DIOXIDE"
+    ],
+    "nutrition_facts": {
+      "calories": 227,
+      "protein": {
+        "daily_value": "0g",
+        "value": null
+      },
+      "serving_size": "per 100 ml",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "0g",
+        "value": null
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "",
+          "value": null
+        },
+        "value": null
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/za/en/products/1.desktop.png",
+    "product_name": "White Grapetiser"
+  }
+]

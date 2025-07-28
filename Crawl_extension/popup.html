@@ -1,0 +1,53 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Scraper</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            width: 400px;
+            padding: 10px;
+        }
+        .button-container {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+        button {
+            flex-grow: 1;
+            padding: 10px;
+            font-size: 14px;
+            cursor: pointer;
+            border: 1px solid #ccc;
+            background-color: #f0f0f0;
+        }
+        button:hover {
+            background-color: #e0e0e0;
+        }
+        button#downloadBtn:disabled {
+            cursor: not-allowed;
+            background-color: #f8f8f8;
+            color: #aaa;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ddd;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            max-height: 350px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <h3>Coca-Cola Scraper</h3>
+    <div class="button-container">
+        <button id="crawlBtn">Crawl Data</button>
+        <button id="downloadBtn" disabled>Download JSON</button>
+    </div>
+    <pre id="output">JSON output will appear here...</pre>
+    <script src="popup.js"></script>
+</body>
+</html>

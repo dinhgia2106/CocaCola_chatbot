@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Coca-Cola Product Scraper",
+    "version": "1.0",
+    "description": "Crawls product data from the Coca-Cola website and formats it as JSON.",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "host_permissions": [
+      "*://*.coca-cola.com/*"
+    ]
+  }
