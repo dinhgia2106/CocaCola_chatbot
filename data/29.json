@@ -1,0 +1,53 @@
+[
+  {
+    "available_sizes": [],
+    "description": "Almond flavor drink added with vitamins and minerals without sugar.",
+    "ingredients": [
+      "WATER",
+      "ALMOND PASTE 2%",
+      "MALTODEXTRIN",
+      "CALCIUM CARBONATE",
+      "FLAVORING",
+      "SUNFLOWER LECITHIN",
+      "IODIZED SALT",
+      "XANTHAN GUM",
+      "GELLAN GUM",
+      "ZINC",
+      "VITAMINS E",
+      "A",
+      "D2",
+      "B6",
+      "B12 AND FOLIC ACID."
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0.5 g"
+      },
+      "serving_size": "",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "",
+        "value": "47 mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "",
+          "value": null
+        },
+        "value": "0 g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/mx/es/brands/ades/new-vis/semillas/ades_almendra_sin_azucar.png",
+    "product_name": "AdeS Unsweetened Almond"
+  }
+]

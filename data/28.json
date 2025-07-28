@@ -1,0 +1,220 @@
+[
+  {
+    "available_sizes": [],
+    "description": "Soy and apple flavor drink added with vitamins and zinc.",
+    "ingredients": [
+      "WATER",
+      "STANDARDIZED SOY BASE (WATER AND SOY)",
+      "ADDED SUGARS (2.9% CONCENTRATE APPLE JUICE",
+      "FRUCTOSE",
+      "GLUCOSE",
+      "SUCROSE)",
+      "MALTODEXTRIN",
+      "PECTIN",
+      "CITRIC ACID",
+      "NATURALLY IDENTICAL FLAVORING",
+      "CALCIUM CHLORIDE",
+      "VITAMIN C",
+      "SUCRALOSE (12 mg /100 g)",
+      "ZINC",
+      "VITAMINS B3",
+      "B6",
+      "B2 AND B12."
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0.6 g"
+      },
+      "serving_size": "",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "",
+        "value": "8 mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "",
+          "value": null
+        },
+        "value": "4g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/mx/es/brands/ades/new-vis/frutales/ades_manzana.png",
+    "product_name": "AdeS Soy and Apple flavor"
+  },
+  {
+    "available_sizes": [],
+    "description": "Soy and peach flavor drink added with vitamins and zinc.",
+    "ingredients": [
+      "WATER",
+      "STANDARDIZED SOY BASE (WATER AND SOY)",
+      "ADDED SUGARS (APPLE JUICE CONCENTRATE 1.9%",
+      "FRUCTOSE",
+      "GLUCOSE",
+      "PEACH JUICE CONCENTRATE 0.6%",
+      "SUCROSE)",
+      "PECTIN",
+      "CITRIC ACID",
+      "FLAVORING IDENTICAL TO NATURAL",
+      "CHLORIDE CALCIUM",
+      "VITAMIN C",
+      "SUCRALOSE (10 mg/100 g)",
+      "ANNATE EXTRACT",
+      "CARMIN",
+      "ZINC",
+      "VITAMINS B3",
+      "B6",
+      "B2 AND B12"
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0.6 g"
+      },
+      "serving_size": "",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "",
+        "value": "7 mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "",
+          "value": null
+        },
+        "value": "3.9 g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/mx/es/brands/ades/new-vis/frutales/ades_durazno.png",
+    "product_name": "AdeS Soy With Peach Juice"
+  },
+  {
+    "available_sizes": [],
+    "description": "Soy and mango flavor drink added with vitamins and zinc.",
+    "ingredients": [
+      "WATER",
+      "STANDARDIZED SOY BASE (WATER AND SOY)",
+      "ADDED SUGARS (FRUCTOSE",
+      "GLUCOSE",
+      "0.9% CONCENTRATE APPLE JUICE",
+      "0.4% CONCENTRATE MANGO JUICE",
+      "SUCROSE)",
+      "MALTODEXTRIN",
+      "PECTIN",
+      "CITRIC ACID",
+      "NATURALLY IDENTICAL FLAVORINGS",
+      "GUAR GUM",
+      "CALCIUM CHLORIDE",
+      "ORANGE FOODS 5",
+      "VITAMIN C",
+      "SUCRALOSE (10 mg /100 g)",
+      "ZINC",
+      "VITAMINS B3",
+      "B6",
+      "B2 AND B12."
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0.6 g"
+      },
+      "serving_size": "",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "",
+        "value": "8 mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "",
+          "value": null
+        },
+        "value": "3.8 g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/mx/es/brands/ades/new-vis/frutales/ades_mango.png",
+    "product_name": "AdeS Soy With Mango Juice"
+  },
+  {
+    "available_sizes": [],
+    "description": "Soy and grape flavor drink added with vitamins and zinc.",
+    "ingredients": [
+      "WATER",
+      "STANDARDIZED SOY BASE (WATER AND SOY)",
+      "ADDED SUGARS (2.4% CONCENTRATED GRAPE JUICE",
+      "FRUCTOSE",
+      "GLUCOSE",
+      "SUCROSE)",
+      "MALTODEXTRIN",
+      "PECTIN",
+      "CITRIC ACID",
+      "NATURALLY IDENTICAL FLAVORING",
+      "CALCIUM CHLORIDE",
+      "CARMIN",
+      "VITAMIN C",
+      "SUCRALOSE (10 mg /100 g)",
+      "ZINC",
+      "VITAMINS B3",
+      "B6",
+      "B2 AND B12."
+    ],
+    "nutrition_facts": {
+      "calories": null,
+      "protein": {
+        "daily_value": "",
+        "value": "0.6 g"
+      },
+      "serving_size": "",
+      "servings_per_container": null,
+      "sodium": {
+        "daily_value": "",
+        "value": "8 mg"
+      },
+      "total_carbohydrate": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_fat": {
+        "daily_value": "",
+        "value": null
+      },
+      "total_sugars": {
+        "includes_added_sugars": {
+          "daily_value": "",
+          "value": null
+        },
+        "value": "4g"
+      }
+    },
+    "product_image_link": "https://www.coca-cola.com/content/dam/onexp/mx/es/brands/ades/new-vis/frutales/ades_uva.png",
+    "product_name": "AdeS Soy With Grape Juice"
+  }
+]
