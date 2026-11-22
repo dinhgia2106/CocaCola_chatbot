@@ -1,207 +1,93 @@
-# Coca-Cola RAG System
+# Coca-Cola Product RAG Chatbot
 
-Hệ thống RAG (Retrieval-Augmented Generation) hoàn chỉnh cho Coca-Cola chatbot với vector database và intent classification.
+A retrieval-augmented chatbot that answers questions about Coca-Cola products — ingredients, nutrition, caffeine, sizes, comparisons and product ranges — in Vietnamese or English.
 
-## Tính năng chính
+Its main idea: **classify the question first, then retrieve from the chunk level that fits it.** Fact lookups hit fine-grained chunks, product questions hit per-product summaries, and listing questions hit category overviews.
 
-### 3 Cấp độ Chunking
-1. **Cấp 1 - Chunk Chi Tiết**: Tập trung vào từng thuộc tính cụ thể
-2. **Cấp 2 - Chunk Tổng Hợp**: Thông tin toàn diện về một sản phẩm
-3. **Cấp 3 - Chunk Tổng Quan**: Nhóm sản phẩm theo đặc tính
+## How it works
 
-### Vector Database với FAISS
-- Sử dụng `paraphrase-multilingual-MiniLM-L12-v2` để tạo embeddings
-- Hỗ trợ 3 loại FAISS index:
-  - `IndexFlatL2`: Tìm kiếm chính xác nhất, chậm nhất
-  - `IndexIVFFlat`: Cân bằng tốc độ và độ chính xác
-  - `IndexIVFPQ`: Nhanh nhất, tiết kiệm bộ nhớ
+```
+question ─► intent classifier (Gemini) ─► intent + entities ─► chunk level 1 / 2 / 3
+                                                                       │
+                     FAISS search (multilingual MiniLM embeddings) ◄───┘
+                                                                       │
+                     Gemini 1.5 Flash answer generation ◄──────────────┘
+```
 
-### Intent Classification
-- Sử dụng Gemini API để phân loại ý định người dùng
-- Hỗ trợ 14 loại intent khác nhau
-- Xoay vòng 3 API keys khi có lỗi
+### Three chunk levels
 
-### Flask API
-- RESTful API với 5 endpoints chính
-- Hỗ trợ CORS
-- Health check và system info
+| Level | Content | Used for intents |
+|---|---|---|
+| 1 — detail | one attribute of one product | `get_ingredients`, `get_nutrition_facts`, `get_calories`, `get_sugar_content`, `check_caffeine`, `get_available_sizes` |
+| 2 — product | everything about one product | `get_product_summary`, `compare_two_products`, `product_inquiry` |
+| 3 — overview | products grouped by type, attribute or country | `list_by_product_type`, `list_by_attribute`, `list_by_country`, `explain_category` |
 
-## Cài đặt
+### Retrieval
 
-1. Cài đặt dependencies:
+- Embeddings: `sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2`
+- FAISS index type is configurable: `IndexFlatL2` (exact, default), `IndexIVFFlat` (balanced) or `IndexIVFPQ` (fastest, smallest)
+
+### Data collection
+
+`Crawl_extension/` is a small Chrome extension that scrapes product pages from the Coca-Cola website into JSON (`data/final_product_data.json`, plus FAQ and product files).
+
+### Reliability
+
+Up to three Gemini API keys are rotated automatically when a request fails or hits a rate limit.
+
+## Running
+
 ```bash
 pip install -r requirements.txt
+
+# .env  (see .env.example)
+GEMINI_API_KEY_1=...
+GEMINI_API_KEY_2=...
+GEMINI_API_KEY_3=...
+
+python chunking_system.py   # build chunks/level_{1,2,3}_chunks.json
+python vector_database.py   # build vector_db/coca_cola_index.*
+python demo_rag.py          # console demo
+python app.py               # Flask API on http://localhost:5000
 ```
 
-2. Cấu hình API keys:
-   - Copy file `env_example.txt` thành `.env`
-   - Thêm các Gemini API keys vào file `.env`
+Prebuilt chunks and the FAISS index are included, so `app.py` can run directly. `Procfile` and `render.yaml` are provided for deployment on Render.
 
-## Sử dụng
-
-### 1. Tạo chunks và vector database:
-```bash
-# Tạo chunks
-python chunking_system.py
-
-# Tạo vector database
-python vector_database.py
-```
-
-### 2. Chạy demo:
-```bash
-python demo_rag.py
-```
-
-### 3. Khởi động Flask API:
-```bash
-python app.py
-```
-
-### 4. Sử dụng trong code:
 ```python
 from rag_system import RAGSystem
 
-# Khởi tạo hệ thống
-rag_system = RAGSystem()
-
-# Gửi câu hỏi
-result = rag_system.generate_response("Thành phần của Coca-Cola Original là gì?")
-print(result['response'])
+rag = RAGSystem()
+print(rag.generate_response("Thành phần của Coca-Cola Original là gì?")["response"])
 ```
 
-## API Endpoints
+## API
 
-### 1. Chat API
-```bash
-POST /api/chat
-Content-Type: application/json
+| Method | Endpoint | Body | Returns |
+|---|---|---|---|
+| `POST` | `/api/chat` | `{"message": "..."}` | generated answer |
+| `POST` | `/api/search` | `{"query": "...", "k": 5}` | top-k chunks with scores |
+| `POST` | `/api/intent` | `{"message": "..."}` | intent and extracted entities |
+| `GET` | `/api/system-info` | | index and model information |
+| `GET` | `/health` | | health check |
 
-{
-    "message": "Thành phần của Coca-Cola Original là gì?"
-}
-```
-
-### 2. Search API
-```bash
-POST /api/search
-Content-Type: application/json
-
-{
-    "query": "thành phần Coca-Cola",
-    "k": 5
-}
-```
-
-### 3. Intent Classification API
-```bash
-POST /api/intent
-Content-Type: application/json
-
-{
-    "message": "Thành phần của Coca-Cola Original là gì?"
-}
-```
-
-### 4. System Info API
-```bash
-GET /api/system-info
-```
-
-### 5. Health Check API
-```bash
-GET /health
-```
-
-## Cấu trúc dự án
-
-```
-CocaCola_chatbot/
-├── data/
-│   └── final_product_data.json      # Dữ liệu sản phẩm
-├── chunks/                          # Thư mục chứa chunks
-│   ├── level_1_chunks.json
-│   ├── level_2_chunks.json
-│   ├── level_3_chunks.json
-│   └── all_chunks.json
-├── vector_db/                       # Thư mục chứa vector database
-│   ├── coca_cola_index.index
-│   └── coca_cola_index.metadata
-├── chunking_system.py               # Hệ thống tạo chunks
-├── intent_classifier.py             # Phân loại intent
-├── vector_database.py               # Vector database với FAISS
-├── rag_system.py                    # Hệ thống RAG chính
-├── demo_rag.py                      # Demo hệ thống
-├── app.py                          # Flask API
-├── requirements.txt                 # Dependencies
-└── README.md                       # Hướng dẫn này
-```
-
-## Ví dụ sử dụng API
-
-### Chat với RAG system:
 ```python
 import requests
-
-response = requests.post('http://localhost:5000/api/chat', json={
-    'message': 'Thành phần của Coca-Cola Original là gì?'
-})
-
-result = response.json()
-print(result['response'])
+r = requests.post("http://localhost:5000/api/search", json={"query": "Coca-Cola ingredients", "k": 5})
+for hit in r.json()["results"]:
+    print(f"{hit['score']:.4f}  {hit['content'][:100]}")
 ```
 
-### Tìm kiếm semantic:
-```python
-response = requests.post('http://localhost:5000/api/search', json={
-    'query': 'thành phần Coca-Cola',
-    'k': 5
-})
+## Repository
 
-results = response.json()['results']
-for result in results:
-    print(f"Score: {result['score']:.4f}")
-    print(f"Content: {result['content'][:100]}...")
 ```
-
-### Phân loại intent:
-```python
-response = requests.post('http://localhost:5000/api/intent', json={
-    'message': 'Thành phần của Coca-Cola Original là gì?'
-})
-
-result = response.json()
-print(f"Intent: {result['intent']}")
-print(f"Entities: {result['entities']}")
+chunking_system.py   builds the three chunk levels
+vector_database.py   embeddings + FAISS index (create_vector_database(index_type=...))
+intent_classifier.py Gemini intent and entity extraction
+llm_generator.py     answer generation with key rotation
+rag_system.py        end-to-end RAG pipeline
+app.py               Flask API (CORS enabled)
+demo_rag.py          console demo
+test_api.ipynb       API smoke tests
+data/ chunks/ vector_db/
+Crawl_extension/     product scraper
 ```
-
-## Cấu hình FAISS Index
-
-### IndexFlatL2 (Mặc định):
-```python
-from vector_database import create_vector_database
-
-# Tạo index chính xác nhất
-vdb = create_vector_database(index_type="IndexFlatL2")
-```
-
-### IndexIVFFlat:
-```python
-# Tạo index cân bằng tốc độ và độ chính xác
-vdb = create_vector_database(index_type="IndexIVFFlat")
-```
-
-### IndexIVFPQ:
-```python
-# Tạo index nhanh nhất, tiết kiệm bộ nhớ
-vdb = create_vector_database(index_type="IndexIVFPQ")
-```
-
-## Lưu ý
-
-- Hệ thống sử dụng Gemini API để phân loại intent
-- Cần cấu hình API keys trong file `.env`
-- Chunks và vector database được tạo tự động
-- Hỗ trợ xoay vòng API keys khi có lỗi
-- FAISS index được lưu và load tự động
-- Flask API chạy trên port 5000 mặc định 
